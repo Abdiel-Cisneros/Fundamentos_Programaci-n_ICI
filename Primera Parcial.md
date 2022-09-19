@@ -263,7 +263,7 @@ Hacer que el diagrama le indique al usuario que ingresó los números cuánto le
   
 ### Ejercicio 20. Capture N números, al final indique cuántos son positivos y cuántos son negativos, escriba 0 para terminar
 #### 20.1 Análisis
-
+Hacer que el DFD separe los positivos y los negativos y le imprima al usuario cuántos son de cada uno
 #### 20.2 Diagrama de Flujo de datos
 ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programaci-n_ICI/blob/main/20.jpg)
 #### 20.3 Prueba de escritorio
@@ -280,7 +280,7 @@ Cont_P=0  Cont_N=0
   Si es positivo, contar de 0 a ese número.
   Si es negativo, contar de 0 a ese número.
 #### 21.1 Análisis
-
+Hacer que el usuario ingrese un número y que el DFD cuente el número ingresado desde 0, se puede volver a utilizar de manera indefinida por el usuario, termina ingresando 0
 #### 21.2 Diagrama de Flujo de datos
 ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programaci-n_ICI/blob/cf7d86bf4673307c448620d2c9e224e1adb7726e/21.jpg)
 #### 21.3 Prueba de escritorio
