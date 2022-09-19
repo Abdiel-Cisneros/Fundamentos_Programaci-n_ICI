@@ -112,7 +112,7 @@ N= A+B
   
 ### Ejercicio 9. Un DFD que pregunte el año de nacimiento y calcule tu edad
 #### 9.1 Análisis
-
+Un diagrama sencillo que le calcule la edad al usuario imaginando al usuario ingresando los valores correctos
 #### 9.2 Diagrama de Flujo de datos
 ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programaci-n_ICI/blob/cf7d86bf4673307c448620d2c9e224e1adb7726e/9.jpg)
 #### 9.3 Prueba de escritorio
@@ -151,7 +151,7 @@ Realizar un diagrama que le calcule la edad al usuario, corrigiendo en caso de q
   
 ### Ejercicio 12. Escribir un DFD que pregunte al usuario su edad, año actual, imprima su edad y que corrija al usuario si se equivoca  
 #### 12.1 Análisis
-Elaborar un diagrama más avanzado que le calcule la edad al usuario
+Diagrama más avanzado que le calcula la edad al usuario y que sólo le permita números válidos
 #### 12.2 Diagrama de Flujo de datos
 ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programaci-n_ICI/blob/cf7d86bf4673307c448620d2c9e224e1adb7726e/12.jpg)
 #### 12.3 Prueba de escritorio
@@ -164,7 +164,7 @@ Elaborar un diagrama más avanzado que le calcule la edad al usuario
   
 ### Ejercicio 13. Escribir un DFD que cuente del 1 al 10 y lo escriba
 #### 13.1 Análisis
-
+Un contador que vaya imprimiendo uno a uno hasta llegar a 10
 #### 13.2 Diagrama de Flujo de datos
 ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programaci-n_ICI/blob/cf7d86bf4673307c448620d2c9e224e1adb7726e/13.jpg)
 #### 13.3 Prueba de escritorio
@@ -174,12 +174,12 @@ Cont=1
 #### 13.5 Entradas
 No hay entradas
 #### 13.6 Salida
-10
+1,2,3,4,5,6,7,8,9,10
 
   
 ### Ejercicio 14. El resultado de la suma de los números naturales de 1 al 10
 #### 14.1 Análisis
-
+Una variable que vaya sumando el contador para al final dar el resultado total
 #### 14.2 Diagrama de Flujo de datos
 ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programaci-n_ICI/blob/cf7d86bf4673307c448620d2c9e224e1adb7726e/14.jpg)
 #### 14.3 Prueba de escritorio
@@ -194,7 +194,7 @@ No hay entradas
   
 ### Ejercicio 15. DFD que genere números pares del 1 al 10
 #### 15.1 Análisis
-
+Diagrama que imprime de dos en dos hasta finalizar en 10
 #### 15.2 Diagrama de Flujo de datos
 ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programaci-n_ICI/blob/cf7d86bf4673307c448620d2c9e224e1adb7726e/15.jpg)
 #### 15.3 Prueba de escritorio
@@ -204,12 +204,12 @@ Cont=0
 #### 15.5 Entradas
 No hay entradas
 #### 15.6 Salida
-10
+2,4,6,8,10
 
   
 ### Ejercicio 16. Capture N números e imprima sólo la suma de los pares
 #### 16.1 Análisis
-
+Que el usuario ingrese los números y el diagrama imprima el resultado
 #### 16.2 Diagrama de Flujo de datos
 ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programaci-n_ICI/blob/cf7d86bf4673307c448620d2c9e224e1adb7726e/16.jpg)
 #### 16.3 Prueba de escritorio
@@ -224,7 +224,7 @@ Cont=0  Suma_Par=0  Cantidad=0
   
 ### Ejercicio 17. Digite si un número es par o impar
 #### 17.1 Análisis
-
+Hacer que el diagrama diferencie entre número par o impar
 #### 17.2 Diagrama de Flujo de datos
 ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programaci-n_ICI/blob/cf7d86bf4673307c448620d2c9e224e1adb7726e/17.jpg)
 #### 17.3 Prueba de escritorio
@@ -237,7 +237,7 @@ Cont=0  Suma_Par=0  Cantidad=0
   
 ### Ejercicio 18. Escriba un DFD que indique si un número es mayor a 10
 #### 18.1 Análisis
-
+El diagrama indicará si el número ingresado por el usuario excede a 10 o si éste es menor al mismo
 #### 18.2 Diagrama de Flujo de datos
 ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programaci-n_ICI/blob/cf7d86bf4673307c448620d2c9e224e1adb7726e/18.jpg)
 #### 18.3 Prueba de escritorio
@@ -250,7 +250,7 @@ Cont=0  Suma_Par=0  Cantidad=0
   
 ### Ejercicio 19. ¿Cuánto me falta para que llegue a 10?
 #### 19.1 Análisis
-
+Hacer que el diagrama le indique al usuario que ingresó los números cuánto le falta para el número 10
 #### 19.2 Diagrama de Flujo de datos
 ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programaci-n_ICI/blob/cf7d86bf4673307c448620d2c9e224e1adb7726e/19.jpg)
 #### 19.3 Prueba de escritorio
