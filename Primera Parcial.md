@@ -238,9 +238,9 @@ Cont=0  Suma_Par=0  Cantidad=0
 #### 19.3 Prueba de escritorio
 ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programaci-n_ICI/blob/cf7d86bf4673307c448620d2c9e224e1adb7726e/Prueba%20de%20escritorio19.png)
 #### 19.4 Entradas
-
+6
 #### 19.5 Salida
-
+"El número es menor a 10 le faltan", 4
 
 ### Ejercicio 20. Capture N números, al final indique cuántos son positivos y cuántos son negativos, escriba 0 para terminar
 #### 20.1 Análisis
@@ -249,10 +249,12 @@ Cont=0  Suma_Par=0  Cantidad=0
 ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programaci-n_ICI/blob/main/20.jpg)
 #### 20.3 Prueba de escritorio
 ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programaci-n_ICI/blob/cf7d86bf4673307c448620d2c9e224e1adb7726e/Prueba%20de%20escritorio20.png)
-#### 20.4 Entradas
-
-#### 20.5 Salida
-
+#### 20.4 Datos
+Cont_P=0  Cont_N=0
+#### 20.5 Entradas
+3,4,1,6,8
+#### 20.6 Salida
+"+" 3 "-" 2
 
 ### Ejercicio 21. Capturar un número positivo o negativo, 0 para terminar
   Si es positivo, contar de 0 a ese número.
@@ -263,6 +265,9 @@ Cont=0  Suma_Par=0  Cantidad=0
 ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programaci-n_ICI/blob/cf7d86bf4673307c448620d2c9e224e1adb7726e/21.jpg)
 #### 21.3 Prueba de escritorio
 ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programaci-n_ICI/blob/cf7d86bf4673307c448620d2c9e224e1adb7726e/Prueba%20de%20escritorio21.png)
-#### 21.4 Entradas
-
-#### 21.5 Salida
+#### 21.4 Datos
+Cont=0  Cont_N=0
+#### 21.5 Entradas
+5
+#### 21.6 Salida
+0,1,2,3,4,5
