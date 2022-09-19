@@ -20,9 +20,9 @@ Abdiel
 #### 2.3 Prueba de escritorio
 ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programaci-n_ICI/blob/cf7d86bf4673307c448620d2c9e224e1adb7726e/Prueba%20de%20escritorio2.png)
 #### 2.4 Entradas
-
+No hay entradas
 #### 2.5 Salida
-
+Lunes
 
 ### Ejercicio 3. Hola <nombre>
 #### 3.1 Análisis
@@ -31,10 +31,12 @@ Abdiel
 ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programaci-n_ICI/blob/cf7d86bf4673307c448620d2c9e224e1adb7726e/3.jpg)
 #### 3.3 Prueba de escritorio
 ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programaci-n_ICI/blob/cf7d86bf4673307c448620d2c9e224e1adb7726e/Prueba%20de%20escritorio3.png)
-#### 3.4 Entradas
-
-#### 3.5 Salida
-
+#### 3.4 Datos
+Nom= Abdiel  
+#### 3.5 Entradas
+No hay entradas
+#### 3.6 Salida
+"Hola", Abdiel
 
 ### Ejercicio 4. Buen día <nombre>
 #### 4.1 Análisis
@@ -44,9 +46,9 @@ Abdiel
 #### 4.3 Prueba de escritorio
 ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programaci-n_ICI/blob/cf7d86bf4673307c448620d2c9e224e1adb7726e/Prueba%20de%20escritorio4.png)
 #### 4.4 Entradas
-
+Abdiel
 #### 4.5 Salida
-
+"Buen día", Abdiel
 
 ### Ejercicio 5. Escriba un DFD que calcule el cuadrado de dos
 #### 5.1 Análisis
@@ -56,9 +58,9 @@ Abdiel
 #### 5.3 Prueba de escritorio
 ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programaci-n_ICI/blob/cf7d86bf4673307c448620d2c9e224e1adb7726e/Prueba%20de%20escritorio5.png)
 #### 5.4 Entradas
-
+No hay entradas
 #### 5.5 Salida
-
+4
 
 ### Ejercicio 6. Escriba un DFD que calcule el cuadrado de N para N=%
 #### 6.1 Análisis
@@ -67,10 +69,12 @@ Abdiel
 ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programaci-n_ICI/blob/cf7d86bf4673307c448620d2c9e224e1adb7726e/6.jpg)
 #### 6.3 Prueba de escritorio
 ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programaci-n_ICI/blob/cf7d86bf4673307c448620d2c9e224e1adb7726e/Prueba%20de%20escritorio6.png)
-#### 6.4 Entradas
-
-#### 6.5 Salida
-
+#### 6.4 Datos
+  N=5
+#### 6.5 Entradas
+No hay entradas
+#### 6.6 Salida
+25
 
 ### Ejercicio 7. Pregunte al usuario el valor de N y obtenga el cuadrado
 #### 7.1 Análisis
@@ -80,9 +84,9 @@ Abdiel
 #### 7.3 Prueba de escritorio
 ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programaci-n_ICI/blob/cf7d86bf4673307c448620d2c9e224e1adb7726e/Prueba%20de%20escritorio7.png)
 #### 7.4 Entradas
-
+6
 #### 7.5 Salida
-
+36
 
 ### Ejercicio 8. Obtenga el cuadrado de la suma de 2 números enteros
 #### 8.1 Análisis
@@ -91,10 +95,12 @@ Abdiel
 ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programaci-n_ICI/blob/cf7d86bf4673307c448620d2c9e224e1adb7726e/8.jpg)
 #### 8.3 Prueba de escritorio
 ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programaci-n_ICI/blob/cf7d86bf4673307c448620d2c9e224e1adb7726e/Prueba%20de%20escritorio8.png)
-#### 8.4 Entradas
-
-#### 8.5 Salida
-
+#### 8.4 Datos
+N= A+B  
+#### 8.5 Entradas
+2,5
+#### 8.6 Salida
+47
 
 ### Ejercicio 9. Un DFD que pregunte el año de nacimiento y calcule tu edad
 #### 9.1 Análisis
@@ -104,9 +110,9 @@ Abdiel
 #### 9.3 Prueba de escritorio
 ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programaci-n_ICI/blob/cf7d86bf4673307c448620d2c9e224e1adb7726e/Prueba%20de%20escritorio9.png)
 #### 9.4 Entradas
-
+2004
 #### 9.5 Salida
-
+18
 
 ### Ejercicio 10. Pregunte el año de nacimiento de una persona y calcule su edad
 #### 10.1 Análisis
@@ -116,9 +122,9 @@ Abdiel
 #### 10.3 Prueba de escritorio
 ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programaci-n_ICI/blob/cf7d86bf4673307c448620d2c9e224e1adb7726e/Prueba%20de%20escritorio10.png)
 #### 10.4 Entradas
-
+2004,2022
 #### 10.5 Salida
-
+18
 
 ### Ejercicio 11. Escribir un DFD que pregunte al usuario su edad y año actual e imprima su edad
 #### 11.1 Análisis
@@ -128,9 +134,9 @@ Abdiel
 #### 11.3 Prueba de escritorio
 ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programaci-n_ICI/blob/cf7d86bf4673307c448620d2c9e224e1adb7726e/Prueba%20de%20escritorio11.png)
 #### 11.4 Entradas
-
+2004,2022
 #### 11.5 Salida
-
+18
 
 ### Ejercicio 12. Escribir un DFD que pregunte al usuario su edad, año actual, imprima su edad y que corrija al usuario si se equivoca  
 #### 12.1 Análisis
@@ -140,9 +146,9 @@ Abdiel
 #### 12.3 Prueba de escritorio
 ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programaci-n_ICI/blob/cf7d86bf4673307c448620d2c9e224e1adb7726e/Prueba%20de%20escritorio12.png)
 #### 12.4 Entradas
-
+2004,2022
 #### 12.5 Salida
-
+18
 
 ### Ejercicio 13. Escribir un DFD que cuente del 1 al 10 y lo escriba
 #### 13.1 Análisis
@@ -151,10 +157,12 @@ Abdiel
 ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programaci-n_ICI/blob/cf7d86bf4673307c448620d2c9e224e1adb7726e/13.jpg)
 #### 13.3 Prueba de escritorio
 ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programaci-n_ICI/blob/cf7d86bf4673307c448620d2c9e224e1adb7726e/Prueba%20de%20escritorio13.png)
-#### 13.4 Entradas
-
-#### 13.5 Salida
-
+#### 13.4 Datos
+Cont=1  
+#### 13.5 Entradas
+No hay entradas
+#### 13.6 Salida
+10
 
 ### Ejercicio 14. El resultado de la suma de los números naturales de 1 al 10
 #### 14.1 Análisis
@@ -163,10 +171,12 @@ Abdiel
 ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programaci-n_ICI/blob/cf7d86bf4673307c448620d2c9e224e1adb7726e/14.jpg)
 #### 14.3 Prueba de escritorio
 ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programaci-n_ICI/blob/cf7d86bf4673307c448620d2c9e224e1adb7726e/Prueba%20de%20escritorio14.png)
-#### 14.4 Entradas
-
-#### 14.5 Salida
-
+#### 14.4 Datos
+Cont=1 Suma=0
+#### 14.5 Entradas
+No hay entradas
+#### 14.6 Salida
+46
 
 ### Ejercicio 15. DFD que genere números pares del 1 al 10
 #### 15.1 Análisis
