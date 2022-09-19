@@ -12,7 +12,7 @@ No hay entradas
 #### 1.5 Salida
 Abdiel
 
-### Ejercicio 2.
+### Ejercicio 2. Escriba un algoritmo que imprima el día de hoy
 #### 2.1 Análisis
 
 #### 2.2 Diagrama de Flujo de datos
@@ -24,7 +24,7 @@ Abdiel
 #### 2.5 Salida
 
 
-### Ejercicio 3.
+### Ejercicio 3. Hola <nombre>
 #### 3.1 Análisis
 
 #### 3.2 Diagrama de Flujo de datos
@@ -36,7 +36,7 @@ Abdiel
 #### 3.5 Salida
 
 
-### Ejercicio 4.
+### Ejercicio 4. Buen día <nombre>
 #### 4.1 Análisis
 
 #### 4.2 Diagrama de Flujo de datos
@@ -48,7 +48,7 @@ Abdiel
 #### 4.5 Salida
 
 
-### Ejercicio 5.
+### Ejercicio 5. Escriba un DFD que calcule el cuadrado de dos
 #### 5.1 Análisis
 
 #### 5.2 Diagrama de Flujo de datos
@@ -60,7 +60,7 @@ Abdiel
 #### 5.5 Salida
 
 
-### Ejercicio 6.
+### Ejercicio 6. Escriba un DFD que calcule el cuadrado de N para N=%
 #### 6.1 Análisis
 
 #### 6.2 Diagrama de Flujo de datos
@@ -72,7 +72,7 @@ Abdiel
 #### 6.5 Salida
 
 
-### Ejercicio 7.
+### Ejercicio 7. Pregunte al usuario el valor de N y obtenga el cuadrado
 #### 7.1 Análisis
 
 #### 7.2 Diagrama de Flujo de datos
@@ -84,7 +84,7 @@ Abdiel
 #### 7.5 Salida
 
 
-### Ejercicio 8.
+### Ejercicio 8. Obtenga el cuadrado de la suma de 2 números enteros
 #### 8.1 Análisis
 
 #### 8.2 Diagrama de Flujo de datos
@@ -96,7 +96,7 @@ Abdiel
 #### 8.5 Salida
 
 
-### Ejercicio 9.
+### Ejercicio 9. Un DFD que pregunte el año de nacimiento y calcule tu edad
 #### 9.1 Análisis
 
 #### 9.2 Diagrama de Flujo de datos
@@ -108,7 +108,7 @@ Abdiel
 #### 9.5 Salida
 
 
-### Ejercicio 10.
+### Ejercicio 10. Pregunte el año de nacimiento de una persona y calcule su edad
 #### 10.1 Análisis
 
 #### 10.2 Diagrama de Flujo de datos
@@ -120,7 +120,7 @@ Abdiel
 #### 10.5 Salida
 
 
-### Ejercicio 11.
+### Ejercicio 11. Escribir un DFD que pregunte al usuario su edad y año actual e imprima su edad
 #### 11.1 Análisis
 
 #### 11.2 Diagrama de Flujo de datos
@@ -132,7 +132,7 @@ Abdiel
 #### 11.5 Salida
 
 
-### Ejercicio 12.
+### Ejercicio 12. Escribir un DFD que pregunte al usuario su edad, año actual, imprima su edad y que corrija al usuario si se equivoca  
 #### 12.1 Análisis
 
 #### 12.2 Diagrama de Flujo de datos
@@ -144,7 +144,7 @@ Abdiel
 #### 12.5 Salida
 
 
-### Ejercicio 13.
+### Ejercicio 13. Escribir un DFD que cuente del 1 al 10 y lo escriba
 #### 13.1 Análisis
 
 #### 13.2 Diagrama de Flujo de datos
@@ -156,7 +156,7 @@ Abdiel
 #### 13.5 Salida
 
 
-### Ejercicio 14.
+### Ejercicio 14. El resultado de la suma de los números naturales de 1 al 10
 #### 14.1 Análisis
 
 #### 14.2 Diagrama de Flujo de datos
@@ -168,7 +168,7 @@ Abdiel
 #### 14.5 Salida
 
 
-### Ejercicio 15.
+### Ejercicio 15. DFD que genere números pares del 1 al 10
 #### 15.1 Análisis
 
 #### 15.2 Diagrama de Flujo de datos
@@ -180,7 +180,7 @@ Abdiel
 #### 15.5 Salida
 
 
-### Ejercicio 16.
+### Ejercicio 16. Capture N números e imprima sólo la suma de los pares
 #### 16.1 Análisis
 
 #### 16.2 Diagrama de Flujo de datos
@@ -192,7 +192,7 @@ Abdiel
 #### 16.5 Salida
 
 
-### Ejercicio 17.
+### Ejercicio 17. Digite si un número es par o impar
 #### 17.1 Análisis
 
 #### 17.2 Diagrama de Flujo de datos
@@ -204,7 +204,7 @@ Abdiel
 #### 17.5 Salida
 
 
-### Ejercicio 18.
+### Ejercicio 18. Escriba un DFD que indique si un número es mayor a 10
 #### 18.1 Análisis
 
 #### 18.2 Diagrama de Flujo de datos
@@ -216,7 +216,7 @@ Abdiel
 #### 18.5 Salida
 
 
-### Ejercicio 19.
+### Ejercicio 19. ¿Cuánto me falta para que llegue a 10?
 #### 19.1 Análisis
 
 #### 19.2 Diagrama de Flujo de datos
@@ -228,7 +228,7 @@ Abdiel
 #### 19.5 Salida
 
 
-### Ejercicio 20.
+### Ejercicio 20. Capture N números, al final indique cuántos son positivos y cuántos son negativos, escriba 0 para terminar
 #### 20.1 Análisis
 
 #### 20.2 Diagrama de Flujo de datos
@@ -240,7 +240,9 @@ Abdiel
 #### 20.5 Salida
 
 
-### Ejercicio 21.
+### Ejercicio 21. Capturar un número positivo o negativo, 0 para terminar
+  Si es positivo, contar de 0 a ese número.
+  Si es negativo, contar de 0 a ese número.
 #### 21.1 Análisis
 
 #### 21.2 Diagrama de Flujo de datos
