@@ -185,10 +185,12 @@ No hay entradas
 ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programaci-n_ICI/blob/cf7d86bf4673307c448620d2c9e224e1adb7726e/15.jpg)
 #### 15.3 Prueba de escritorio
 ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programaci-n_ICI/blob/cf7d86bf4673307c448620d2c9e224e1adb7726e/Prueba%20de%20escritorio15.png)
-#### 15.4 Entradas
-
-#### 15.5 Salida
-
+#### 15.4 Datos
+Cont=0
+#### 15.5 Entradas
+No hay entradas
+#### 15.6 Salida
+10
 
 ### Ejercicio 16. Capture N números e imprima sólo la suma de los pares
 #### 16.1 Análisis
@@ -197,10 +199,12 @@ No hay entradas
 ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programaci-n_ICI/blob/cf7d86bf4673307c448620d2c9e224e1adb7726e/16.jpg)
 #### 16.3 Prueba de escritorio
 ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programaci-n_ICI/blob/cf7d86bf4673307c448620d2c9e224e1adb7726e/Prueba%20de%20escritorio16.png)
-#### 16.4 Entradas
-
-#### 16.5 Salida
-
+#### 16.4 Datos
+Cont=0  Suma_Par=0  Cantidad=0
+#### 16.5 Entradas
+3, 2,4,2
+#### 16.6 Salida
+8
 
 ### Ejercicio 17. Digite si un número es par o impar
 #### 17.1 Análisis
@@ -210,9 +214,9 @@ No hay entradas
 #### 17.3 Prueba de escritorio
 ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programaci-n_ICI/blob/cf7d86bf4673307c448620d2c9e224e1adb7726e/Prueba%20de%20escritorio17.png)
 #### 17.4 Entradas
-
+5
 #### 17.5 Salida
-
+"El número es impar"
 
 ### Ejercicio 18. Escriba un DFD que indique si un número es mayor a 10
 #### 18.1 Análisis
@@ -222,9 +226,9 @@ No hay entradas
 #### 18.3 Prueba de escritorio
 ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programaci-n_ICI/blob/cf7d86bf4673307c448620d2c9e224e1adb7726e/Prueba%20de%20escritorio18.png)
 #### 18.4 Entradas
-
+14
 #### 18.5 Salida
-
+"El número ingresado es mayor a 10"
 
 ### Ejercicio 19. ¿Cuánto me falta para que llegue a 10?
 #### 19.1 Análisis
