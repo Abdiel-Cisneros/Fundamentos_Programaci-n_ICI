@@ -288,6 +288,7 @@ Hacer que el usuario ingrese un número y que el DFD cuente el número ingresado
 #### 21.4 Datos
 Cont=0  Cont_N=0
 #### 21.5 Entradas
-5
+-3, 4
 #### 21.6 Salida
-0,1,2,3,4,5
+0,-1,-2,-3
+0,1,2,3,4
