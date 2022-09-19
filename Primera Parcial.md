@@ -232,7 +232,7 @@ Abdiel
 #### .2 Análisis
 
 #### .3 Diagrama de Flujo de datos
-![image]()
+![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programaci-n_ICI/blob/main/20.jpg)
 #### .3 Prueba de escritorio
 ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programaci-n_ICI/blob/cf7d86bf4673307c448620d2c9e224e1adb7726e/Prueba%20de%20escritorio20.png)
 #### .4 Entradas
