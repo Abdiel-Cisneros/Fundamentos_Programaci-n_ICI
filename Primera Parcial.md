@@ -97,7 +97,7 @@ Hacer que el usuario añada el valor de N y el diagrama imprima el cuadrado de N
   
 ### Ejercicio 8. Obtenga el cuadrado de la suma de 2 números enteros
 #### 8.1 Análisis
-
+Hacer que el usuario inserte números enteros y que el diagrama sume los números y obtenga el cuadrado
 #### 8.2 Diagrama de Flujo de datos
 ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programaci-n_ICI/blob/cf7d86bf4673307c448620d2c9e224e1adb7726e/8.jpg)
 #### 8.3 Prueba de escritorio
@@ -125,7 +125,7 @@ N= A+B
   
 ### Ejercicio 10. Pregunte el año de nacimiento de una persona y calcule su edad
 #### 10.1 Análisis
-
+Hacer de manera simple un diagrama que le calcule su edad e imprima el resultado
 #### 10.2 Diagrama de Flujo de datos
 ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programaci-n_ICI/blob/cf7d86bf4673307c448620d2c9e224e1adb7726e/10.jpg)
 #### 10.3 Prueba de escritorio
@@ -138,7 +138,7 @@ N= A+B
   
 ### Ejercicio 11. Escribir un DFD que pregunte al usuario su edad y año actual e imprima su edad
 #### 11.1 Análisis
-
+Realizar un diagrama que le calcule la edad al usuario, corrigiendo en caso de que el usuario se equivoque al ingresar los números
 #### 11.2 Diagrama de Flujo de datos
 ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programaci-n_ICI/blob/cf7d86bf4673307c448620d2c9e224e1adb7726e/11.jpg)
 #### 11.3 Prueba de escritorio
@@ -151,7 +151,7 @@ N= A+B
   
 ### Ejercicio 12. Escribir un DFD que pregunte al usuario su edad, año actual, imprima su edad y que corrija al usuario si se equivoca  
 #### 12.1 Análisis
-
+Elaborar un diagrama más avanzado que le calcule la edad al usuario
 #### 12.2 Diagrama de Flujo de datos
 ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programaci-n_ICI/blob/cf7d86bf4673307c448620d2c9e224e1adb7726e/12.jpg)
 #### 12.3 Prueba de escritorio
