@@ -64,9 +64,9 @@ Abdiel
 #### .2 Análisis
 
 #### .3 Diagrama de Flujo de datos
-![image]( )
+![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programaci-n_ICI/blob/cf7d86bf4673307c448620d2c9e224e1adb7726e/6.jpg)
 #### .3 Prueba de escritorio
-![image]( )
+![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programaci-n_ICI/blob/cf7d86bf4673307c448620d2c9e224e1adb7726e/Prueba%20de%20escritorio6.png)
 #### .4 Entradas
 
 #### .5 Salida
@@ -76,9 +76,9 @@ Abdiel
 #### .2 Análisis
 
 #### .3 Diagrama de Flujo de datos
-![image]( )
+![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programaci-n_ICI/blob/cf7d86bf4673307c448620d2c9e224e1adb7726e/7.jpg)
 #### .3 Prueba de escritorio
-![image]( )
+![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programaci-n_ICI/blob/cf7d86bf4673307c448620d2c9e224e1adb7726e/Prueba%20de%20escritorio7.png)
 #### .4 Entradas
 
 #### .5 Salida
@@ -88,9 +88,9 @@ Abdiel
 #### .2 Análisis
 
 #### .3 Diagrama de Flujo de datos
-![image]( )
+![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programaci-n_ICI/blob/cf7d86bf4673307c448620d2c9e224e1adb7726e/8.jpg)
 #### .3 Prueba de escritorio
-![image]( )
+![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programaci-n_ICI/blob/cf7d86bf4673307c448620d2c9e224e1adb7726e/Prueba%20de%20escritorio8.png)
 #### .4 Entradas
 
 #### .5 Salida
@@ -100,9 +100,9 @@ Abdiel
 #### .2 Análisis
 
 #### .3 Diagrama de Flujo de datos
-![image]( )
+![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programaci-n_ICI/blob/cf7d86bf4673307c448620d2c9e224e1adb7726e/9.jpg)
 #### .3 Prueba de escritorio
-![image]( )
+![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programaci-n_ICI/blob/cf7d86bf4673307c448620d2c9e224e1adb7726e/Prueba%20de%20escritorio9.png)
 #### .4 Entradas
 
 #### .5 Salida
@@ -112,9 +112,9 @@ Abdiel
 #### .2 Análisis
 
 #### .3 Diagrama de Flujo de datos
-![image]( )
+![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programaci-n_ICI/blob/cf7d86bf4673307c448620d2c9e224e1adb7726e/10.jpg)
 #### .3 Prueba de escritorio
-![image]( )
+![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programaci-n_ICI/blob/cf7d86bf4673307c448620d2c9e224e1adb7726e/Prueba%20de%20escritorio10.png)
 #### .4 Entradas
 
 #### .5 Salida
@@ -124,9 +124,9 @@ Abdiel
 #### .2 Análisis
 
 #### .3 Diagrama de Flujo de datos
-![image]( )
+![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programaci-n_ICI/blob/cf7d86bf4673307c448620d2c9e224e1adb7726e/11.jpg)
 #### .3 Prueba de escritorio
-![image]( )
+![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programaci-n_ICI/blob/cf7d86bf4673307c448620d2c9e224e1adb7726e/Prueba%20de%20escritorio11.png)
 #### .4 Entradas
 
 #### .5 Salida
@@ -136,9 +136,9 @@ Abdiel
 #### .2 Análisis
 
 #### .3 Diagrama de Flujo de datos
-![image]( )
+![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programaci-n_ICI/blob/cf7d86bf4673307c448620d2c9e224e1adb7726e/12.jpg)
 #### .3 Prueba de escritorio
-![image]( )
+![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programaci-n_ICI/blob/cf7d86bf4673307c448620d2c9e224e1adb7726e/Prueba%20de%20escritorio12.png)
 #### .4 Entradas
 
 #### .5 Salida
@@ -148,9 +148,9 @@ Abdiel
 #### .2 Análisis
 
 #### .3 Diagrama de Flujo de datos
-![image]( )
+![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programaci-n_ICI/blob/cf7d86bf4673307c448620d2c9e224e1adb7726e/13.jpg)
 #### .3 Prueba de escritorio
-![image]( )
+![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programaci-n_ICI/blob/cf7d86bf4673307c448620d2c9e224e1adb7726e/Prueba%20de%20escritorio13.png)
 #### .4 Entradas
 
 #### .5 Salida
@@ -160,9 +160,9 @@ Abdiel
 #### .2 Análisis
 
 #### .3 Diagrama de Flujo de datos
-![image]( )
+![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programaci-n_ICI/blob/cf7d86bf4673307c448620d2c9e224e1adb7726e/14.jpg)
 #### .3 Prueba de escritorio
-![image]( )
+![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programaci-n_ICI/blob/cf7d86bf4673307c448620d2c9e224e1adb7726e/Prueba%20de%20escritorio14.png)
 #### .4 Entradas
 
 #### .5 Salida
@@ -172,9 +172,9 @@ Abdiel
 #### .2 Análisis
 
 #### .3 Diagrama de Flujo de datos
-![image]( )
+![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programaci-n_ICI/blob/cf7d86bf4673307c448620d2c9e224e1adb7726e/15.jpg)
 #### .3 Prueba de escritorio
-![image]( )
+![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programaci-n_ICI/blob/cf7d86bf4673307c448620d2c9e224e1adb7726e/Prueba%20de%20escritorio15.png)
 #### .4 Entradas
 
 #### .5 Salida
@@ -184,9 +184,9 @@ Abdiel
 #### .2 Análisis
 
 #### .3 Diagrama de Flujo de datos
-![image]( )
+![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programaci-n_ICI/blob/cf7d86bf4673307c448620d2c9e224e1adb7726e/16.jpg)
 #### .3 Prueba de escritorio
-![image]( )
+![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programaci-n_ICI/blob/cf7d86bf4673307c448620d2c9e224e1adb7726e/Prueba%20de%20escritorio16.png)
 #### .4 Entradas
 
 #### .5 Salida
@@ -196,9 +196,9 @@ Abdiel
 #### .2 Análisis
 
 #### .3 Diagrama de Flujo de datos
-![image]( )
+![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programaci-n_ICI/blob/cf7d86bf4673307c448620d2c9e224e1adb7726e/17.jpg)
 #### .3 Prueba de escritorio
-![image]( )
+![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programaci-n_ICI/blob/cf7d86bf4673307c448620d2c9e224e1adb7726e/Prueba%20de%20escritorio17.png)
 #### .4 Entradas
 
 #### .5 Salida
@@ -208,9 +208,9 @@ Abdiel
 #### .2 Análisis
 
 #### .3 Diagrama de Flujo de datos
-![image]( )
+![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programaci-n_ICI/blob/cf7d86bf4673307c448620d2c9e224e1adb7726e/18.jpg)
 #### .3 Prueba de escritorio
-![image]( )
+![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programaci-n_ICI/blob/cf7d86bf4673307c448620d2c9e224e1adb7726e/Prueba%20de%20escritorio18.png)
 #### .4 Entradas
 
 #### .5 Salida
@@ -220,9 +220,9 @@ Abdiel
 #### .2 Análisis
 
 #### .3 Diagrama de Flujo de datos
-![image]( )
+![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programaci-n_ICI/blob/cf7d86bf4673307c448620d2c9e224e1adb7726e/19.jpg)
 #### .3 Prueba de escritorio
-![image]( )
+![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programaci-n_ICI/blob/cf7d86bf4673307c448620d2c9e224e1adb7726e/Prueba%20de%20escritorio19.png)
 #### .4 Entradas
 
 #### .5 Salida
@@ -232,9 +232,9 @@ Abdiel
 #### .2 Análisis
 
 #### .3 Diagrama de Flujo de datos
-![image]( )
+![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programaci-n_ICI/blob/cf7d86bf4673307c448620d2c9e224e1adb7726e/20.jpg)
 #### .3 Prueba de escritorio
-![image]( )
+![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programaci-n_ICI/blob/cf7d86bf4673307c448620d2c9e224e1adb7726e/Prueba%20de%20escritorio20.png)
 #### .4 Entradas
 
 #### .5 Salida
@@ -244,9 +244,9 @@ Abdiel
 #### .2 Análisis
 
 #### .3 Diagrama de Flujo de datos
-![image]( )
+![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programaci-n_ICI/blob/cf7d86bf4673307c448620d2c9e224e1adb7726e/21.jpg)
 #### .3 Prueba de escritorio
-![image]( )
+![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programaci-n_ICI/blob/cf7d86bf4673307c448620d2c9e224e1adb7726e/Prueba%20de%20escritorio21.png)
 #### .4 Entradas
 
 #### .5 Salida
