@@ -315,14 +315,25 @@ Se utilizó la estructura repetitiva "While", de la cual puede que la función n
 #### 22.1.3 Prueba de escritorio
 ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/Prueba%20de%20escritorio22.1.0.png)  
 #### 22.1.4 Datos
-  
-#### 22.1.5 Entradas  
+S=0   C=1  S=S+C C=C+1  
+#### 22.1.5 Entradas
+No hay entradas
 #### 22.1.6 Salida  
+10  
   
-  
-
-  
-  
+### Ejercicio 22.2.0
+#### 22.2.1 Análisis  
+Por último en este ejercicio, se aplico el Do/while, lo que significa que al menos se ejecuta una vez  
+#### 22.2.2 Diagrama de flujo de datos  
+![image]()
+#### 22.2.3 Prueba de escritorio  
+![image]()
+#### 22.2.4 Datos
+S=0  C=1  S=S+C  C=C+1
+#### 22.2.5 Entradas  
+No hay entradas
+#### 22.2.6 Salida  
+10  
   
 ### Ejercicio 23. Obtenga la suma de los primeros 5 números pares
 #### 23.1 Análisis
