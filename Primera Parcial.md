@@ -291,3 +291,57 @@ Cont=0  Cont_N=0
 -3, 4
 #### 21.6 Salida
 R1:0,-1,-2,-3_____R2:0,1,2,3,4
+  
+  
+### Ejercicio 22. Contar de un número hasta el 10 y sumar lo valores
+#### 22.1 Análisis
+Se utiliza el mismo planteamiento de las clases pasadas, sólo que aquí hay una diferencia, está más compacto y en esta clase se vió algo denominado "Estructuras Repetitivas" de las cuales hay 3: For, While, Do/While. Para este problema se utilizó el "For"
+#### 22.2 Diagrama de flujo de datos
+![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/d784dcfe82612f468a0adab4081223b252ac7f7b/22.jpg)
+#### 22.3 Prueba de escritorio
+![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/d784dcfe82612f468a0adab4081223b252ac7f7b/Prueba%20de%20escritorio22.png)
+#### 22.4 Datos
+S=Ø    S=S+1  
+#### 22.5 Entradas  
+No hay entradas  
+#### 22.6 Salida  
+10  
+
+### Ejercicio 22.1.0
+#### 22.1.1 Análisis  
+Se utilizó la estructura repetitiva "While", de la cual puede que la función nunca se ejecute
+#### 22.1.2 Diagrama de flujo de datos
+![image]()  
+#### 22.1.3 Prueba de escritorio
+![image]()  
+#### 22.1.4 Datos
+  
+#### 22.1.5 Entradas  
+#### 22.1.6 Salida  
+  
+  
+
+  
+  
+  
+### Ejercicio 23. Obtenga la suma de los primeros 5 números pares
+#### 23.1 Análisis
+#### 23.2 Diagrama de flujo de datos
+![image]()  
+#### 23.3 Prueba de escritorio  
+![image]()  
+#### 23.4 Datos
+  
+#### 23.5 Entradas
+  
+#### 23.6 Salida  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
