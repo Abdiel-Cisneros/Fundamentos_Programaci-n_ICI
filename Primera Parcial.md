@@ -311,9 +311,9 @@ No hay entradas
 #### 22.1.1 Análisis  
 Se utilizó la estructura repetitiva "While", de la cual puede que la función nunca se ejecute
 #### 22.1.2 Diagrama de flujo de datos
-![image]()  
+![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/22.1.0.jpg)
 #### 22.1.3 Prueba de escritorio
-![image]()  
+![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/Prueba%20de%20escritorio22.1.0.png)  
 #### 22.1.4 Datos
   
 #### 22.1.5 Entradas  
