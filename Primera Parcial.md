@@ -348,7 +348,7 @@ No hay entradas
 #### 23.6 Salida  
   
   
-  
+  d
   
   
   
