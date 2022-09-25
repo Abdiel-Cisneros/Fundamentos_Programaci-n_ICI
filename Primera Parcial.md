@@ -325,9 +325,9 @@ No hay entradas
 #### 22.2.1 Análisis  
 Por último en este ejercicio, se aplico el Do/while, lo que significa que al menos se ejecuta una vez  
 #### 22.2.2 Diagrama de flujo de datos  
-![image]()
+![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/commit/0cf59ec9725d12df48cae0fe3b15b120840100cb)
 #### 22.2.3 Prueba de escritorio  
-![image]()
+![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/Prueba%20de%20escritorio22.2.0.png)
 #### 22.2.4 Datos
 S=0  C=1  S=S+C  C=C+1
 #### 22.2.5 Entradas  
