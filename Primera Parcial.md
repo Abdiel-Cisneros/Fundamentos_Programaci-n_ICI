@@ -338,15 +338,16 @@ No hay entradas
   
 ### Ejercicio 23. Obtenga la suma de los primeros 5 números pares
 #### 23.1 Análisis
-#### 23.2 Diagrama de flujo de datos
+#### 23.2 Diagrama de flujo de datos. Ejemplo 1
+![image]()
+#### 23.3 Diagrama de flujo de datos. Ejemplo 2  
+#### 23.4 Prueba de escritorio  
 ![image]()  
-#### 23.3 Prueba de escritorio  
-![image]()  
-#### 23.4 Datos
+#### 23.5 Datos
   
-#### 23.5 Entradas
+#### 23.6 Entradas
   
-#### 23.6 Salida  
+#### 23.7 Salida  
   
   
 ### Ejercicio 23.1.0 
