@@ -338,6 +338,7 @@ No hay entradas
   
 ### Ejercicio 23. Obtenga la suma de los primeros 5 números pares
 #### 23.1 Análisis
+Recrear un diagrama ya visto en la parcial pero ahora aplicando la estructuras repetitivas
 #### 23.2 Diagrama de flujo de datos. Ejemplo 1
 ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/23%20Ejemplo%201.jpg)
 #### 23.3 Prueba de escritorio del ejemplo 1
@@ -356,28 +357,28 @@ No hay entradas
 ### Ejercicio 23.1.0 
 #### 23.1 Análisis
 #### 23.2 Diagrama de flujo de datos
-![image]()  
+![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/23.1.0.jpg)  
 #### 23.3 Prueba de escritorio  
-![image]()  
+![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/Prueba%20de%20escritorio23.1.0.png)  
 #### 23.4 Datos
   
 #### 23.5 Entradas
-  
+No hay entradas  
 #### 23.6 Salida 
-  
+10  
 
 ### Ejercicio 23.2.0 
 #### 23.1 Análisis
 #### 23.2 Diagrama de flujo de datos
-![image]()  
+![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/23.2.0.jpg)  
 #### 23.3 Prueba de escritorio  
-![image]()  
+![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/Prueba%20de%20escritorio23.2.0.png)  
 #### 23.4 Datos
   
 #### 23.5 Entradas
-  
+No hay entradas  
 #### 23.6 Salida  
-  
+10  
   
   
   
