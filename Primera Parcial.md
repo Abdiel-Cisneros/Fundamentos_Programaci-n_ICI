@@ -347,7 +347,7 @@ No hay entradas
 #### 23.4 Prueba de escritorio del ejemplo 2  
 ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/Prueba%20de%20escritorio23%20Ejemplo%202.png)  
 #### 23.5 Datos
-  
+S=0  S=S+1  
 #### 23.6 Entradas
 No hay entradas  
 #### 23.7 Salida  
