@@ -356,12 +356,13 @@ No hay entradas
   
 ### Ejercicio 23.1.0 
 #### 23.1 Análisis
+Estructura Repetitiva "Do/While"  
 #### 23.2 Diagrama de flujo de datos
 ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/23.1.0.jpg)  
 #### 23.3 Prueba de escritorio  
 ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/Prueba%20de%20escritorio23.1.0.png)  
 #### 23.4 Datos
-  
+S=0 C=1 S=S+C*2 C=C+1   
 #### 23.5 Entradas
 No hay entradas  
 #### 23.6 Salida 
@@ -369,12 +370,13 @@ No hay entradas
 
 ### Ejercicio 23.2.0 
 #### 23.1 Análisis
+Estructura Repetitiva "While"  
 #### 23.2 Diagrama de flujo de datos
 ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/23.2.0.jpg)  
 #### 23.3 Prueba de escritorio  
 ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/Prueba%20de%20escritorio23.2.0.png)  
 #### 23.4 Datos
-  
+S=0 C=1 S=S+C*2 C=C+1  
 #### 23.5 Entradas
 No hay entradas  
 #### 23.6 Salida  
