@@ -292,6 +292,10 @@ Cont=0  Cont_N=0
 #### 21.6 Salida
 R1:0,-1,-2,-3_____R2:0,1,2,3,4
   
+
+ #SEGUNDA PARCIAL 
+ ## En esta parcial, estaremos trabajando con los arrays en los diagramas de flujo y pasando los diagramas de flujo antes vistas en clase al lenguaje dart a través del Visual Estudio
+  
   
 ### Ejercicio 22. Contar de un número hasta el 10 y sumar lo valores
 #### 22.1 Análisis
