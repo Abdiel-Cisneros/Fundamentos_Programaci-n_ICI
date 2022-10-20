@@ -297,7 +297,8 @@ R1:0,-1,-2,-3_____R2:0,1,2,3,4
   
   
   
-  
+
+
   
   
   
@@ -314,7 +315,7 @@ R1:0,-1,-2,-3_____R2:0,1,2,3,4
  En esta parcial, estaremos trabajando con los arrays en los diagramas de flujo y pasando los diagramas de flujo antes vistas en clase al lenguaje Dart a través del Visual Estudio
   
   
-### Ejercicio 22. Contar de un número hasta el 10 y sumar lo valores
+  ### Ejercicio 22. Contar de un número hasta el 10 y sumar lo valores
 #### 22.1 Análisis
 Se utiliza el mismo planteamiento de las clases pasadas, sólo que aquí hay una diferencia, está más compacto y en esta clase se vió algo denominado "Estructuras Repetitivas" de las cuales hay 3: For, While, Do/While. Para este problema se utilizó el "For"
 #### 22.2 Diagrama de flujo de datos
@@ -342,7 +343,7 @@ No hay entradas
 #### 22.1.6 Salida  
 10  
   
-### Ejercicio 22.2.0
+  ### Ejercicio 22.2.0
 #### 22.2.1 Análisis  
 Por último en este ejercicio, se aplico el Do/while, lo que significa que al menos se ejecuta una vez  
 #### 22.2.2 Diagrama de flujo de datos  
@@ -375,7 +376,7 @@ No hay entradas
 #### 23.7 Salida  
 10  
   
-### Ejercicio 23.1.0 
+  ### Ejercicio 23.1.0 
 #### 23.1 Análisis
 Estructura Repetitiva "Do/While"  
 #### 23.2 Diagrama de flujo de datos
@@ -402,7 +403,60 @@ S=0 C=1 S=S+C*2 C=C+1
 No hay entradas  
 #### 23.6 Salida  
 10  
+
+  ### Ejercicio 21.
+#### 21.1 Análisis
+
   
+#### 21.2 Diagrama de Flujo de datos
+![image]()
+#### 21.3 Prueba de escritorio
+![image]()
+#### 21.4 Datos
+
+#### 21.5 Entradas
+
+#### 21.6 Salida
+  
+ ### Ejercicio 21.
+#### 21.1 Análisis
+
+  
+#### 21.2 Diagrama de Flujo de datos
+![image]()
+#### 21.3 Prueba de escritorio
+![image]()
+#### 21.4 Datos
+
+#### 21.5 Entradas
+
+#### 21.6 Salida
+  ### Ejercicio 21.
+#### 21.1 Análisis
+
+  
+#### 21.2 Diagrama de Flujo de datos
+![image]()
+#### 21.3 Prueba de escritorio
+![image]()
+#### 21.4 Datos
+
+#### 21.5 Entradas
+
+#### 21.6 Salida
+  ### Ejercicio 21.
+#### 21.1 Análisis
+
+  
+#### 21.2 Diagrama de Flujo de datos
+![image]()
+#### 21.3 Prueba de escritorio
+![image]()
+#### 21.4 Datos
+
+#### 21.5 Entradas
+
+#### 21.6 Salida
   
   
   
