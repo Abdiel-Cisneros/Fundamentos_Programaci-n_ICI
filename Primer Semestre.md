@@ -329,6 +329,7 @@ No hay entradas
 #### 22.6 Salida  
 10  
 
+  
 ### Ejercicio 22.1.0
 #### 22.1.1 Análisis  
 Se utilizó la estructura repetitiva "While", de la cual puede que la función nunca se ejecute
@@ -342,6 +343,7 @@ S=0   C=1  S=S+C C=C+1
 No hay entradas
 #### 22.1.6 Salida  
 10  
+  
   
   ### Ejercicio 22.2.0
 #### 22.2.1 Análisis  
@@ -376,6 +378,7 @@ No hay entradas
 #### 23.7 Salida  
 10  
   
+  
   ### Ejercicio 23.1.0 
 #### 23.1 Análisis
 Estructura Repetitiva "Do/While"  
@@ -390,6 +393,7 @@ No hay entradas
 #### 23.6 Salida 
 10  
 
+  
 ### Ejercicio 23.2.0 
 #### 23.1 Análisis
 Estructura Repetitiva "While"  
@@ -404,6 +408,66 @@ No hay entradas
 #### 23.6 Salida  
 10  
 
+  
+  ### Ejercicio 24. Almacene en un array el numero n leído del teclado, el tamaño del array es de 10
+#### 21.1 Análisis
+
+  
+#### 24.2 Diagrama de Flujo de datos
+![image]()
+#### 24.3 Prueba de escritorio
+![image]()
+#### 24.4 Datos
+
+#### 24.5 Entradas
+
+#### 24.6 Salida
+
+  
+### Ejercicio 25. Almacene los n números leídos del teclado en un vector de 10 elementos
+#### 21.1 Análisis
+
+  
+#### 25.2 Diagrama de Flujo de datos
+![image]()
+#### 25.3 Prueba de escritorio
+![image]()
+#### 25.4 Datos
+
+#### 25.5 Entradas
+
+#### 25.6 Salida
+  
+  
+  ### Ejercicio 26. Almacena un contador regresivo en un vector. El conteo es de 10 a 0
+#### 25.1 Análisis
+
+  
+#### 21.2 Diagrama de Flujo de datos
+![image]()
+#### 21.3 Prueba de escritorio
+![image]()
+#### 21.4 Datos
+
+#### 21.5 Entradas
+
+#### 21.6 Salida
+  
+  
+### Ejercicio 27. Almacene en un vector de tamaño 10 todos los números pares capturados hasta completar todos.
+#### 21.1 Análisis
+
+  
+#### 21.2 Diagrama de Flujo de datos
+![image]()
+#### 21.3 Prueba de escritorio
+![image]()
+#### 21.4 Datos
+
+#### 21.5 Entradas
+
+#### 21.6 Salida
+  
   ### Ejercicio 21.
 #### 21.1 Análisis
 
@@ -418,32 +482,6 @@ No hay entradas
 
 #### 21.6 Salida
   
- ### Ejercicio 21.
-#### 21.1 Análisis
-
-  
-#### 21.2 Diagrama de Flujo de datos
-![image]()
-#### 21.3 Prueba de escritorio
-![image]()
-#### 21.4 Datos
-
-#### 21.5 Entradas
-
-#### 21.6 Salida
-  ### Ejercicio 21.
-#### 21.1 Análisis
-
-  
-#### 21.2 Diagrama de Flujo de datos
-![image]()
-#### 21.3 Prueba de escritorio
-![image]()
-#### 21.4 Datos
-
-#### 21.5 Entradas
-
-#### 21.6 Salida
   ### Ejercicio 21.
 #### 21.1 Análisis
 
@@ -459,6 +497,186 @@ No hay entradas
 #### 21.6 Salida
   
   
+  ### Ejercicio 28. Obtenga el promedio de las calificaciones aprobatorias y la cantidad de alumnos reprobados, la calificación es entre 0 y 10 y el máximo de alumnos es 15
+#### 21.1 Análisis
+
+  
+#### 21.2 Diagrama de Flujo de datos
+![image]()
+#### 21.3 Prueba de escritorio
+![image]()
+#### 21.4 Datos
+
+#### 21.5 Entradas
+
+#### 21.6 Salida
+  
+  
+  ### Ejercicio 21.
+#### 21.1 Análisis
+
+  
+#### 21.2 Diagrama de Flujo de datos
+![image]()
+#### 21.3 Prueba de escritorio
+![image]()
+#### 21.4 Datos
+
+#### 21.5 Entradas
+
+#### 21.6 Salida
+  
+  
+  ### Ejercicio 21.
+#### 21.1 Análisis
+
+  
+#### 21.2 Diagrama de Flujo de datos
+![image]()
+#### 21.3 Prueba de escritorio
+![image]()
+#### 21.4 Datos
+
+#### 21.5 Entradas
+
+#### 21.6 Salida
+  
+
+  
+### Ejercicio 29. Capture n números en el rango
+  [li,ls] donde:
+  li= Límite inferior
+  Ls=Límite superior para Li<Ls y Li>0
+  
+  Obtenga:
+-Cantidad de números pares y su promedio
+-Cantidad de números impares y su promedio
+-¿Qué promedio es mayor?
+#### 21.1 Análisis
+
+  
+#### 21.2 Diagrama de Flujo de datos
+![image]()
+#### 21.3 Prueba de escritorio
+![image]()
+#### 21.4 Datos
+
+#### 21.5 Entradas
+
+#### 21.6 Salida
+  
+  
+  ### Ejercicio 29. Obtener la frecuencia de n calificaciones entre [1,10]
+  indique cantidad de reprobados, aprobados, promedio de aprobados y promedio general
+  #### 21.1 Análisis
+
+  
+#### 21.2 Diagrama de Flujo de datos
+![image]()
+#### 21.3 Prueba de escritorio
+![image]()
+#### 21.4 Datos
+
+#### 21.5 Entradas
+
+#### 21.6 Salida
+  
+  
+### Ejercicio 30. Saber si un número es mayor
+#### 21.1 Análisis
+
+  
+#### 21.2 Diagrama de Flujo de datos
+![image]()
+#### 21.3 Prueba de escritorio
+![image]()
+#### 21.4 Datos
+
+#### 21.5 Entradas
+
+#### 21.6 Salida
+  
+  
+  ### Ejercicio 31. 10 Números enteros positivos almacenados en un vector
+  #### 21.1 Análisis
+
+  
+#### 21.2 Diagrama de Flujo de datos
+![image]()
+#### 21.3 Prueba de escritorio
+![image]()
+#### 21.4 Datos
+
+#### 21.5 Entradas
+
+#### 21.6 Salida
   
   
   
+  ### Ejercicio 32. Capture 10 números e imprima el número menor
+#### 21.1 Análisis
+
+  
+#### 21.2 Diagrama de Flujo de datos
+![image]()
+#### 21.3 Prueba de escritorio
+![image]()
+#### 21.4 Datos
+
+#### 21.5 Entradas
+
+#### 21.6 Salida
+  
+  
+  
+  ### Ejercicio 33. Obtener la distancia mayor entre dos números consecutivos en una lista de 10 números
+#### 21.1 Análisis
+
+  
+#### 21.2 Diagrama de Flujo de datos
+![image]()
+#### 21.3 Prueba de escritorio
+![image]()
+#### 21.4 Datos
+
+#### 21.5 Entradas
+
+#### 21.6 Salida
+  
+  
+  ### Ejercicio 34. Almacene en un vector el resultado de una tabla de multiplicar (10 números)
+#### 21.1 Análisis
+
+  
+#### 21.2 Diagrama de Flujo de datos
+![image]()
+#### 21.3 Prueba de escritorio
+![image]()
+#### 21.4 Datos
+
+#### 21.5 Entradas
+
+#### 21.6 Salida
+  
+  
+  
+  ### Ejercicio 35. Elabore un DFD que escriba el siguiente dibujo
+  
+  *                                1
+  **                               1 2
+  ***        ---- ejemplo ---->    1 2 3
+  ****                             1 2 3 4
+  *****                            1 2 3 4 5
+  
+#### 21.1 Análisis
+
+  
+#### 21.2 Diagrama de Flujo de datos
+![image]()
+#### 21.3 Prueba de escritorio
+![image]()
+#### 21.4 Datos
+
+#### 21.5 Entradas
+
+#### 21.6 Salida
