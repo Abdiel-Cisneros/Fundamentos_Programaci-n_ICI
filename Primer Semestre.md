@@ -411,48 +411,50 @@ No hay entradas
   
   ### Ejercicio 24. Almacene en un array el numero n leído del teclado, el tamaño del array es de 10
 #### 21.1 Análisis
-
+En un ciclo For, el usuario ingresará el número que quiera en un rango de 10, al final, el programa mostrará todos los números que ingresó (Números enteros positivos)
   
 #### 24.2 Diagrama de Flujo de datos
-![image]()
+![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/24.jpg)
 #### 24.3 Prueba de escritorio
-![image]()
+![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/Prueba%20de%20escritorio24.png)
 #### 24.4 Datos
-
+A[10]
+C=0 
 #### 24.5 Entradas
-
+5,4,7,2,4,1,9,2,6,5
 #### 24.6 Salida
-
+5,4,7,2,4,1,9,2,6,5
   
-### Ejercicio 25. Almacene los n números leídos del teclado en un vector de 10 elementos
-#### 21.1 Análisis
-
+### Ejercicio 24.1.0
+#### 24.1.1 Análisis
+Ciclo Do/While
   
-#### 25.2 Diagrama de Flujo de datos
-![image]()
-#### 25.3 Prueba de escritorio
-![image]()
-#### 25.4 Datos
-
-#### 25.5 Entradas
-
-#### 25.6 Salida
+#### 24.1.2 Diagrama de Flujo de datos
+![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/24.1.jpg)
+#### 24.1.3 Prueba de escritorio
+![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/Prueba%20de%20escritorio24.1.png)
+#### 24.1.4 Datos
+C=C+1
+A[C]=N
+#### 24.1.5 Entradas
+6,9,3,5,6,7,1,2,8,1
+#### 24.1.6 Salida
+6,9,3,5,6,7,1,2,8,1
   
-  
-  ### Ejercicio 26. Almacena un contador regresivo en un vector. El conteo es de 10 a 0
-#### 25.1 Análisis
+  ### Ejercicio 24.2.0.
+#### 24.2.1 Análisis
+  Ciclo While
 
-  
-#### 21.2 Diagrama de Flujo de datos
-![image]()
-#### 21.3 Prueba de escritorio
-![image]()
-#### 21.4 Datos
+#### 24.2.2 Diagrama de Flujo de datos
+![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/24.2.jpg)
+#### 24.2.3 Prueba de escritorio
+![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/Prueba%20de%20escritorio24.2.png)
+#### 24.2.4 Datos
 
-#### 21.5 Entradas
-
-#### 21.6 Salida
-  
+#### 24.2.5 Entradas
+5,2,3,1,6,3,9,7,8,4
+#### 24.2.6 Salida
+5,2,3,1,6,3,9,7,8,4  
   
 ### Ejercicio 27. Almacene en un vector de tamaño 10 todos los números pares capturados hasta completar todos.
 #### 21.1 Análisis
