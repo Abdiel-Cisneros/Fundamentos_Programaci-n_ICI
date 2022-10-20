@@ -456,19 +456,21 @@ A[C]=N
 #### 24.2.6 Salida
 5,2,3,1,6,3,9,7,8,4  
   
-### Ejercicio 27. Almacene en un vector de tamaño 10 todos los números pares capturados hasta completar todos.
-#### 21.1 Análisis
-
+### Ejercicio 25. Almacena un contador regresivo en un vector. El conteo es de 10 a 0
+#### 25.1 Análisis
+En un ciclo For, el programa contará uno a uno desde el 10 a 0
   
-#### 21.2 Diagrama de Flujo de datos
-![image]()
-#### 21.3 Prueba de escritorio
-![image]()
-#### 21.4 Datos
-
-#### 21.5 Entradas
-
-#### 21.6 Salida
+#### 25.2 Diagrama de Flujo de datos
+![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/25.jpg)
+#### 25.3 Prueba de escritorio
+![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/Prueba%20de%20escritorio25.png)
+#### 25.4 Datos
+A[11]
+C=10
+#### 25.5 Entradas
+No hay entradas
+#### 25.6 Salida
+10,9,8,7,6,5,4,3,2,1,0  
   
   ### Ejercicio 21.
 #### 21.1 Análisis
