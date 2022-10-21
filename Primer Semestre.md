@@ -472,34 +472,39 @@ No hay entradas
 #### 25.6 Salida
 10,9,8,7,6,5,4,3,2,1,0  
   
-  ### Ejercicio 21.
+  ### Ejercicio 25.1.0
 #### 21.1 Análisis
-
+Ciclo Do/While
   
-#### 21.2 Diagrama de Flujo de datos
-![image]()
-#### 21.3 Prueba de escritorio
-![image]()
-#### 21.4 Datos
-
-#### 21.5 Entradas
-
-#### 21.6 Salida
+#### 25.1.2 Diagrama de Flujo de datos
+![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/25.1.jpg)
+#### 25.1.3 Prueba de escritorio
+![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/Prueba%20de%20escritorio25.1.png)
+#### 25.1.4 Datos
+A[11]
+Num=0
+Cont=1
+#### 25.1.5 Entradas
+No hay entradas
+#### 25.1.6 Salida
+10,9,8,7,6,5,4,3,2,1,0  
+ 
+  ### Ejercicio 25.2.0
+#### 25.2.1 Análisis
+Ciclo While
   
-  ### Ejercicio 21.
-#### 21.1 Análisis
-
-  
-#### 21.2 Diagrama de Flujo de datos
-![image]()
-#### 21.3 Prueba de escritorio
-![image]()
-#### 21.4 Datos
-
-#### 21.5 Entradas
-
-#### 21.6 Salida
-  
+#### 25.2.2 Diagrama de Flujo de datos
+![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/25.2.jpg)
+#### 25.2.3 Prueba de escritorio
+![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/Prueba%20de%20escritorio25.2.png)
+#### 25.2.4 Datos
+A[11]
+Num=0
+Cont=1
+#### 25.2.5 Entradas
+No hay entradas
+#### 25.2.6 Salida
+10,9,8,7,6,5,4,3,2,1,0
   
   ### Ejercicio 28. Obtenga el promedio de las calificaciones aprobatorias y la cantidad de alumnos reprobados, la calificación es entre 0 y 10 y el máximo de alumnos es 15
 #### 21.1 Análisis
