@@ -784,14 +784,65 @@ Num=2,4,3,1,9,7,4,6,8,5
 Mayor=9
   
   
-  ## Ejercicio 1. DFD que haga que dos números ingresados por el usuario detecre 
+  ## Ejercicio 1.
 ### 1.1 Análisis
-Ingresar números positivos y diferenciar el número 1 y 2, para saber cuál es el mayor
+
 
 ### 1.2 Diagrama de flujo
-![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/R1.jpg) 
+![image]() 
 ### 1.3 Prueba de escritorio
-![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/Prueba%20de%20escritorioR1.png)
+![image]()
+### 1.4 Datos
+  
+### 1.5 Entradas
+  
+### 1.6 Salida
+
+  
+  
+  
+   ## Ejercicio 1.
+### 1.1 Análisis
+
+
+### 1.2 Diagrama de flujo
+![image]() 
+### 1.3 Prueba de escritorio
+![image]()
+### 1.4 Datos
+  
+### 1.5 Entradas
+  
+### 1.6 Salida
+
+  
+  
+  
+   ## Ejercicio 1.
+### 1.1 Análisis
+
+
+### 1.2 Diagrama de flujo
+![image]() 
+### 1.3 Prueba de escritorio
+![image]()
+### 1.4 Datos
+  
+### 1.5 Entradas
+  
+### 1.6 Salida
+
+  
+  
+  
+   ## Ejercicio 1.
+### 1.1 Análisis
+
+
+### 1.2 Diagrama de flujo
+![image]() 
+### 1.3 Prueba de escritorio
+![image]()
 ### 1.4 Datos
   
 ### 1.5 Entradas
