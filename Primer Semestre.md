@@ -697,11 +697,7 @@ Número menor=1
 ### Ejercicio 5. Escriba un DFD que escriba el siguiente dibujo
   
  
-  *                                1
-  **                               1 2
-  ***        ---- ejemplo ---->    1 2 3
-  ****                             1 2 3 4
-  *****                            1 2 3 4 5
+ ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/28%20cuadro.png)
   
 #### 5.1 Análisis
 Se realizará un DFD que escriba desde el 1, hasta el 5, avanzando de 1 a 1
@@ -715,10 +711,6 @@ N=5
 #### 5.5 Entradas
 No hay entradas  
 #### 5.6 Salida 
-1
-1 2
-1 2 3
-1 2 3 4
-1 2 3 4 5  
-  
+
+![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/28%20cuadro1.png)  
   
