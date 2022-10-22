@@ -766,7 +766,7 @@ Num[i]=N
   
   ## Ejercicio 3. DFD que almacene 10 números enteros positivos en un vector y que imprima el número mayor  
 ### 3.1 Análisis
-Ingresar números positivos y diferenciar el número 1 y 2, para saber cuál es el mayor
+Hacer que el DFD le muestre cuáles son los números que ingresó y le muestre el número mayor
 
 ### 3.2 Diagrama de flujo
 ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/R3.jpg) 
@@ -784,20 +784,27 @@ Num=2,4,3,1,9,7,4,6,8,5
 Mayor=9
   
   
-  ## Ejercicio 1.
+  ## Ejercicio 4. DFD que almacene 10 números enteros positivos y que imprima el número mayor y el número menor
 ### 1.1 Análisis
-
+Hacer que el DFD le muestre cuáles son los números que ingresó y le muestre el número mayor y el número menor
 
 ### 1.2 Diagrama de flujo
-![image]() 
+![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/R4.jpg) 
 ### 1.3 Prueba de escritorio
-![image]()
+![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/Prueba%20de%20escritorioR4.png)
 ### 1.4 Datos
-  
+Num[10]
+Num[i]=N
+Mayor=0
+Mayor=Num[i]
+Menor=Mayor
+Menor=Num[i]
 ### 1.5 Entradas
-  
+6,2,7,5,3,2,6,9,1,4  
 ### 1.6 Salida
-
+Num=6,2,7,5,3,2,6,9,1,4
+Número mayor=9
+Número menor=1
   
   
   
