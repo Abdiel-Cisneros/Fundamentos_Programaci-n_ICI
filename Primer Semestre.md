@@ -311,6 +311,20 @@ R1:0,-1,-2,-3_____R2:0,1,2,3,4
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 # SEGUNDA PARCIAL 
  En esta parcial, estaremos trabajando con los arrays en los diagramas de flujo y pasando los diagramas de flujo antes vistas en clase al lenguaje Dart a través del Visual Estudio
   
@@ -506,189 +520,6 @@ No hay entradas
 #### 25.2.6 Salida
 10,9,8,7,6,5,4,3,2,1,0
   
-  ### Ejercicio 28. Obtenga el promedio de las calificaciones aprobatorias y la cantidad de alumnos reprobados, la calificación es entre 0 y 10 y el máximo de alumnos es 15
-#### 21.1 Análisis
-
-  
-#### 21.2 Diagrama de Flujo de datos
-![image]()
-#### 21.3 Prueba de escritorio
-![image]()
-#### 21.4 Datos
-
-#### 21.5 Entradas
-
-#### 21.6 Salida
-  
-  
-  ### Ejercicio 21.
-#### 21.1 Análisis
-
-  
-#### 21.2 Diagrama de Flujo de datos
-![image]()
-#### 21.3 Prueba de escritorio
-![image]()
-#### 21.4 Datos
-
-#### 21.5 Entradas
-
-#### 21.6 Salida
-  
-  
-  ### Ejercicio 21.
-#### 21.1 Análisis
-
-  
-#### 21.2 Diagrama de Flujo de datos
-![image]()
-#### 21.3 Prueba de escritorio
-![image]()
-#### 21.4 Datos
-
-#### 21.5 Entradas
-
-#### 21.6 Salida
-  
-
-  
-### Ejercicio 29. Capture n números en el rango
-  [li,ls] donde:
-  li= Límite inferior
-  Ls=Límite superior para Li<Ls y Li>0
-  
-  Obtenga:
--Cantidad de números pares y su promedio
--Cantidad de números impares y su promedio
--¿Qué promedio es mayor?
-#### 21.1 Análisis
-
-  
-#### 21.2 Diagrama de Flujo de datos
-![image]()
-#### 21.3 Prueba de escritorio
-![image]()
-#### 21.4 Datos
-
-#### 21.5 Entradas
-
-#### 21.6 Salida
-  
-  
-  ### Ejercicio 29. Obtener la frecuencia de n calificaciones entre [1,10]
-  indique cantidad de reprobados, aprobados, promedio de aprobados y promedio general
-  #### 21.1 Análisis
-
-  
-#### 21.2 Diagrama de Flujo de datos
-![image]()
-#### 21.3 Prueba de escritorio
-![image]()
-#### 21.4 Datos
-
-#### 21.5 Entradas
-
-#### 21.6 Salida
-  
-  
-### Ejercicio 30. Saber si un número es mayor
-#### 21.1 Análisis
-
-  
-#### 21.2 Diagrama de Flujo de datos
-![image]()
-#### 21.3 Prueba de escritorio
-![image]()
-#### 21.4 Datos
-
-#### 21.5 Entradas
-
-#### 21.6 Salida
-  
-  
-  ### Ejercicio 31. 10 Números enteros positivos almacenados en un vector
-  #### 21.1 Análisis
-
-  
-#### 21.2 Diagrama de Flujo de datos
-![image]()
-#### 21.3 Prueba de escritorio
-![image]()
-#### 21.4 Datos
-
-#### 21.5 Entradas
-
-#### 21.6 Salida
-  
-  
-  
-  ### Ejercicio 32. Capture 10 números e imprima el número menor
-#### 21.1 Análisis
-
-  
-#### 21.2 Diagrama de Flujo de datos
-![image]()
-#### 21.3 Prueba de escritorio
-![image]()
-#### 21.4 Datos
-
-#### 21.5 Entradas
-
-#### 21.6 Salida
-  
-  
-  
-  ### Ejercicio 33. Obtener la distancia mayor entre dos números consecutivos en una lista de 10 números
-#### 21.1 Análisis
-
-  
-#### 21.2 Diagrama de Flujo de datos
-![image]()
-#### 21.3 Prueba de escritorio
-![image]()
-#### 21.4 Datos
-
-#### 21.5 Entradas
-
-#### 21.6 Salida
-  
-  
-  ### Ejercicio 34. Almacene en un vector el resultado de una tabla de multiplicar (10 números)
-#### 21.1 Análisis
-
-  
-#### 21.2 Diagrama de Flujo de datos
-![image]()
-#### 21.3 Prueba de escritorio
-![image]()
-#### 21.4 Datos
-
-#### 21.5 Entradas
-
-#### 21.6 Salida
-  
-  
-  
-  ### Ejercicio 35. Elabore un DFD que escriba el siguiente dibujo
-  
-  *                                1
-  **                               1 2
-  ***        ---- ejemplo ---->    1 2 3
-  ****                             1 2 3 4
-  *****                            1 2 3 4 5
-  
-#### 21.1 Análisis
-
-  
-#### 21.2 Diagrama de Flujo de datos
-![image]()
-#### 21.3 Prueba de escritorio
-![image]()
-#### 21.4 Datos
-
-#### 21.5 Entradas
-
-#### 21.6 Salida
   
   
   
@@ -807,51 +638,3 @@ Número mayor=9
 Número menor=1
   
   
-  
-   ## Ejercicio 1.
-### 1.1 Análisis
-
-
-### 1.2 Diagrama de flujo
-![image]() 
-### 1.3 Prueba de escritorio
-![image]()
-### 1.4 Datos
-  
-### 1.5 Entradas
-  
-### 1.6 Salida
-
-  
-  
-  
-   ## Ejercicio 1.
-### 1.1 Análisis
-
-
-### 1.2 Diagrama de flujo
-![image]() 
-### 1.3 Prueba de escritorio
-![image]()
-### 1.4 Datos
-  
-### 1.5 Entradas
-  
-### 1.6 Salida
-
-  
-  
-  
-   ## Ejercicio 1.
-### 1.1 Análisis
-
-
-### 1.2 Diagrama de flujo
-![image]() 
-### 1.3 Prueba de escritorio
-![image]()
-### 1.4 Datos
-  
-### 1.5 Entradas
-  
-### 1.6 Salida
