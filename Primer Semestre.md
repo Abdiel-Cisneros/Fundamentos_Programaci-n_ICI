@@ -546,7 +546,29 @@ Cantidad reprobados= 5
 Calificación alta= 9
   
   
+  ### Ejercicio 27. Capture N numeros
+  [li,ls] donde:
   
+  li= limite inferior
+  ls= límite superior para li<ls y li>0
+  
+  Obtenga:
+  
+-Cantidad de numeros pares y su promedio
+-Cantidad de numeros impares y su promedio
+-¿Qué promedio es mayor?
+#### 1.1 Análisis
+El usuario escogerá el rango de límites y posteriormente la cantidad de n números que ingresará, el DFD le indicará la cantidad de numeros pares y su promedio, así como la cantidad de numeros impares y su promedio, finalizando, indicará cual de los dos promedios es mayor
+
+#### 1.2 Diagrama de flujo
+![image]() 
+#### 1.3 Prueba de escritorio
+![image]()
+#### 1.4 Datos
+  
+#### 1.5 Entradas
+  
+#### 1.6 Salida 
   
   
   
