@@ -565,20 +565,11 @@ El usuario escogerá el rango de límites y posteriormente la cantidad de n núm
 #### 1.3 Prueba de escritorio
 ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/Prueba%20de%20escritorio27.png)
 #### 1.4 Datos
-Promedio_Par=0
-Promedio_Impar=0
-Suma_Par=0
-Suma_Impar=0
-Cantidad_Par=0
-Cantidad_Impar=0
+Promedio_Par=0 Promedio_Impar=0 Suma_Par=0 Suma_Impar=0 Cantidad_Par=0 Cantidad_Impar=0
 ----------------
-Suma_Par=Suma_Par+Num
-Suma_Impar=Suma_Impar+Num
-Cont_Par=Cont_Par+1
-Cont_Impar=Cont_Impar+1
+Suma_Par=Suma_Par+Num Suma_Impar=Suma_Impar+Num Cont_Par=Cont_Par+1 Cont_Impar=Cont_Impar+1
 ---------------
-Promedio_Par=Suma_Par/Cont_Par
-Promedio_Impar=Suma_Impar/Cont_Impar
+Promedio_Par=Suma_Par/Cont_Par Promedio_Impar=Suma_Impar/Cont_Impar
 
 #### 1.5 Entradas
 Lim_inf=4
