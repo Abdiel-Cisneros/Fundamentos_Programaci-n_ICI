@@ -708,85 +708,90 @@ No hay entradas
   
   
   
-# REPASO
   
   
-Actividades extra para repasar
   
-## Ejercicio 1
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+# EXTRA
+  
+  
+Actividades adicionales para dar un repaso
+## Ejercicio 1. DFD que haga que dos números ingresados por el usuario identifique cuál de esos números es mayor 
 ### 1.1 Análisis
-  
+Ingresar números positivos y diferenciar la entrada de datos 1 y 2, para saber cuál es el mayor
+
 ### 1.2 Diagrama de flujo
-![image]( ) 
+![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/R1.jpg) 
 ### 1.3 Prueba de escritorio
-![image]()
+![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/Prueba%20de%20escritorioR1.png)
 ### 1.4 Datos
-  
+No hay datos
 ### 1.5 Entradas
-  
+4,9-5,6-8,2-1,4-7,1
 ### 1.6 Salida
+9-6-8-4-7
   
   
+ ## Ejercicio 2. 10 números enteros positivos almacenados en un vector
+### 2.1 Análisis
+DFD que se encarga de almacenar por medio de un vector todos los números ingresados por el usuario
+
+### 2.2 Diagrama de flujo
+![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/R2.jpg) 
+### 2.3 Prueba de escritorio
+![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/Prueba%20de%20escritorioR2.png)
+### 2.4 Datos
+Num[10]
+Num[i]=N
+### 2.5 Entradas
+5,2,6,3,8,6,6,4,3,1  
+### 2.6 Salida
+5,2,6,3,8,6,6,4,3,1
   
   
-## Ejercicio 1
+  ## Ejercicio 3. DFD que almacene 10 números enteros positivos en un vector y que imprima el número mayor  
+### 3.1 Análisis
+Ingresar números positivos y diferenciar el número 1 y 2, para saber cuál es el mayor
+
+### 3.2 Diagrama de flujo
+![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/R3.jpg) 
+### 3.3 Prueba de escritorio
+![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/Prueba%20de%20escritorioR3.png)
+### 3.4 Datos
+Num[10]
+Num[i]=N
+Mayor=0
+Mayor=Num[i]
+### 3.5 Entradas
+2,4,3,1,9,7,4,6,8,5  
+### 3.6 Salida
+Num=2,4,3,1,9,7,4,6,8,5
+Mayor=9
   
+  
+  ## Ejercicio 1. DFD que haga que dos números ingresados por el usuario detecre 
 ### 1.1 Análisis
-  
+Ingresar números positivos y diferenciar el número 1 y 2, para saber cuál es el mayor
+
 ### 1.2 Diagrama de flujo
-![image]( ) 
+![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/R1.jpg) 
 ### 1.3 Prueba de escritorio
-![image]()
-### 1.4 Datos
-  
-### 1.5 Entradas
-  
-### 1.6 Salida
-  
-  
-  
-## Ejercicio 1
-  
-### 1.1 Análisis
-  
-### 1.2 Diagrama de flujo
-![image]( ) 
-### 1.3 Prueba de escritorio
-![image]()
-### 1.4 Datos
-  
-### 1.5 Entradas
-  
-### 1.6 Salida
-  
-  
-  
-## Ejercicio 1
-  
-### 1.1 Análisis
-  
-### 1.2 Diagrama de flujo
-![image]( ) 
-### 1.3 Prueba de escritorio
-![image]()
-### 1.4 Datos
-  
-### 1.5 Entradas
-  
-### 1.6 Salida
-  
-  
-  
-  
-  
-  
-  ### 1.1 Análisis
-  
-### 1.2 Diagrama de flujo
-![image]( ) 
-### 1.3 Prueba de escritorio
-![image]()
+![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/Prueba%20de%20escritorioR1.png)
 ### 1.4 Datos
   
 ### 1.5 Entradas
