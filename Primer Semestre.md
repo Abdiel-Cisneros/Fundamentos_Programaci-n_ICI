@@ -689,3 +689,106 @@ No hay entradas
 #### 21.5 Entradas
 
 #### 21.6 Salida
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+# REPASO
+  
+  
+Actividades extra para repasar
+  
+## Ejercicio 1
+  
+### 1.1 Análisis
+  
+### 1.2 Diagrama de flujo
+![image]( ) 
+### 1.3 Prueba de escritorio
+![image]()
+### 1.4 Datos
+  
+### 1.5 Entradas
+  
+### 1.6 Salida
+  
+  
+  
+  
+## Ejercicio 1
+  
+### 1.1 Análisis
+  
+### 1.2 Diagrama de flujo
+![image]( ) 
+### 1.3 Prueba de escritorio
+![image]()
+### 1.4 Datos
+  
+### 1.5 Entradas
+  
+### 1.6 Salida
+  
+  
+  
+## Ejercicio 1
+  
+### 1.1 Análisis
+  
+### 1.2 Diagrama de flujo
+![image]( ) 
+### 1.3 Prueba de escritorio
+![image]()
+### 1.4 Datos
+  
+### 1.5 Entradas
+  
+### 1.6 Salida
+  
+  
+  
+## Ejercicio 1
+  
+### 1.1 Análisis
+  
+### 1.2 Diagrama de flujo
+![image]( ) 
+### 1.3 Prueba de escritorio
+![image]()
+### 1.4 Datos
+  
+### 1.5 Entradas
+  
+### 1.6 Salida
+  
+  
+  
+  
+  
+  
+  ### 1.1 Análisis
+  
+### 1.2 Diagrama de flujo
+![image]( ) 
+### 1.3 Prueba de escritorio
+![image]()
+### 1.4 Datos
+  
+### 1.5 Entradas
+  
+### 1.6 Salida
