@@ -566,24 +566,20 @@ El usuario escogerá el rango de límites y posteriormente la cantidad de n núm
 ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/Prueba%20de%20escritorio27.png)
 #### 1.4 Datos
 Promedio_Par=0 Promedio_Impar=0 Suma_Par=0 Suma_Impar=0 Cantidad_Par=0 Cantidad_Impar=0
-----------------
+
 Suma_Par=Suma_Par+Num Suma_Impar=Suma_Impar+Num Cont_Par=Cont_Par+1 Cont_Impar=Cont_Impar+1
----------------
+
 Promedio_Par=Suma_Par/Cont_Par Promedio_Impar=Suma_Impar/Cont_Impar
 
 #### 1.5 Entradas
-Lim_inf=4
-Lim_Sup=26
-N=10
+Lim_inf=4 Lim_Sup=26 N=10
 Num=22,17,7,6,13,9,24,15,18,11
 #### 1.6 Salida
   
 Cont_Par=4
 Cont_Impar=6
-------------
 Promedio_Par= 17.5
 Promedio_Impar= 12
-------------
 "El promedio mayor mayor es", Promedio Par
   
   
