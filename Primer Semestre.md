@@ -522,23 +522,23 @@ No hay entradas
   
   
 ### Ejercicio 26. Obtenga el promedio de las calificaciones aprobatorias y la cantidad de alumnos aprobados, reprobados. La calificación es entre 0 y 10. El máximo de alumnos es de 15
-#### 1.1 Análisis
+#### 26.1 Análisis
 El usuario elegirá el rango de alumnos que abarcará para calificar, posteriormente agregará las calificaciones. El DFD se encargará de realizar las operaciones para poder mostrar las calificaciones aprobatorias, reprobatorias, cantidad de alumnos aprobados, reprobados y por último dirá cuál de todas esas calificaciones es la mayor
 
-#### 1.2 Diagrama de flujo
+#### 26.2 Diagrama de flujo
 ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/26.jpg) 
-#### 1.3 Prueba de escritorio
+#### 26.3 Prueba de escritorio
 ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/Prueba%20de%20escritorio26.png)
-#### 1.4 Datos
+#### 26.4 Datos
 Num[A]
 Total_Alumnos_Reprobados=0
 Total_Alumnos_Aprobados=0
 Cont_Alumnos_Reprobados=0
 Cont_Alumnos_Aprobados=0
 Cal_Alta=0
-#### 1.5 Entradas
+#### 26.5 Entradas
 7,2,1,8,7,3,9,8,4,7,9,3  
-#### 1.6 Salida 
+#### 26.6 Salida 
 Promedio aprobados= 7.8
 Promedio reprobados= 2.6
 Cantidad aprobados= 7 
@@ -582,10 +582,11 @@ Promedio_Par= 17.5
 Promedio_Impar= 12
 "El promedio mayor mayor es", Promedio Par
   
+ 
   
   
   
-  
+   
   
   
   
@@ -671,25 +672,53 @@ Mayor=9
   
   
  ### Ejercicio 4. DFD que almacene 10 números enteros positivos y que imprima el número mayor y el número menor
-#### 1.1 Análisis
+#### 4.1 Análisis
 Hacer que el DFD le muestre cuáles son los números que ingresó y le muestre el número mayor y el número menor
 
-#### 1.2 Diagrama de flujo
+#### 4.2 Diagrama de flujo
 ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/R4.jpg) 
-#### 1.3 Prueba de escritorio
+#### 4.3 Prueba de escritorio
 ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/Prueba%20de%20escritorioR4.png)
-#### 1.4 Datos
+#### 4.4 Datos
 Num[10]
 Num[i]=N
 Mayor=0
 Mayor=Num[i]
 Menor=Mayor
 Menor=Num[i]
-#### 1.5 Entradas
+#### 4.5 Entradas
 6,2,7,5,3,2,6,9,1,4  
-#### 1.6 Salida
+#### 4.6 Salida
 Num=6,2,7,5,3,2,6,9,1,4
 Número mayor=9
 Número menor=1
+  
+  
+### Ejercicio 5. Escriba un DFD que escriba el siguiente dibujo
+  
+ 
+  *                                1
+  **                               1 2
+  ***        ---- ejemplo ---->    1 2 3
+  ****                             1 2 3 4
+  *****                            1 2 3 4 5
+  
+#### 5.1 Análisis
+Se realizará un DFD que escriba desde el 1, hasta el 5, avanzando de 1 a 1
+
+#### 5.2 Diagrama de flujo
+![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/28.jpg) 
+#### 5.3 Prueba de escritorio
+![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/Prueba%20de%20escritorio28.png)
+#### 5.4 Datos
+N=5  
+#### 5.5 Entradas
+No hay entradas  
+#### 5.6 Salida 
+1
+1 2
+1 2 3
+1 2 3 4
+1 2 3 4 5  
   
   
