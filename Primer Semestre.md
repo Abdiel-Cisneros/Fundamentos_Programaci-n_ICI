@@ -557,24 +557,24 @@ Calificación alta= 9
 -Cantidad de numeros pares y su promedio
 -Cantidad de numeros impares y su promedio
 -¿Qué promedio es mayor?
-#### 1.1 Análisis
+#### 27.1 Análisis
 El usuario escogerá el rango de límites y posteriormente la cantidad de n números que ingresará, el DFD le indicará la cantidad de numeros pares y su promedio, así como la cantidad de numeros impares y su promedio, finalizando, indicará cual de los dos promedios es mayor
 
-#### 1.2 Diagrama de flujo
+#### 27.2 Diagrama de flujo
 ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/27.jpg) 
-#### 1.3 Prueba de escritorio
+#### 27.3 Prueba de escritorio
 ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/Prueba%20de%20escritorio27.png)
-#### 1.4 Datos
+#### 27.4 Datos
 Promedio_Par=0 Promedio_Impar=0 Suma_Par=0 Suma_Impar=0 Cantidad_Par=0 Cantidad_Impar=0
 
 Suma_Par=Suma_Par+Num Suma_Impar=Suma_Impar+Num Cont_Par=Cont_Par+1 Cont_Impar=Cont_Impar+1
 
 Promedio_Par=Suma_Par/Cont_Par Promedio_Impar=Suma_Impar/Cont_Impar
 
-#### 1.5 Entradas
+#### 27.5 Entradas
 Lim_inf=4 Lim_Sup=26 N=10
 Num=22,17,7,6,13,9,24,15,18,11
-#### 1.6 Salida
+#### 27.6 Salida
   
 Cont_Par=4
 Cont_Impar=6
