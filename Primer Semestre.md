@@ -714,3 +714,69 @@ No hay entradas
 
 ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/28%20cuadro1.png)  
   
+
+  
+  
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  # DART
+  Ahora que ya elaboramos DFD's, pasaremos esos diagramas en el lenguaje de programación Dart
+  
+  ### Diagrama de flujo 1
+  
+  ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/DFD1_P1%20DART.png)
+  
+  
+  
+  ### Diagrama de flujo 2
+  
+  ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/DFD2_P1%20DART.png)
+  
+  
+  
+  ### Diagrama de flujo 3
+  
+  ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/DFD3_P1%20DART.png)
+  
+  
+  
+  ### Diagrama de flujo 4
+  
+  ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/DFD4_P1%20DART.png)
+  
+  
+  
+  ### Diagrama de flujo 5
+  
+  ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/DFD5_P1%20DART.png)
+  
+  
+  
+  ### Diagrama de flujo 6 
+  
+  ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/DFD6_P1%20DART.png)
+  
+  
+  
+ 
