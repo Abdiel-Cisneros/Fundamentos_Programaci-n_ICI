@@ -806,4 +806,13 @@ No hay entradas
   ### Diagrama de flujo 11
   
   ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/DFD11_P1%20DART.png)
+  
+  
+  
+  ### Diagrama de flujo 12
+  Cuando el usuario ingrese los números correctos
+  ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/DFD12_P1%20DART.png)
  
+Si el usuario ingresa números incorrectos
+  
+  ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/DFD12-E_P1%20DART.png)
