@@ -778,5 +778,32 @@ No hay entradas
   ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/DFD6_P1%20DART.png)
   
   
+  ### Diagrama de flujo 7
   
+  ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/DFD7_P1%20DART.png)
+  
+  
+  
+  ### Diagrama de flujo 8
+  
+  
+  ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/DFD8_P1%20DART.png)
+  
+  
+  
+  ### Diagrama de flujo 9
+  
+  ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/DFD9_P1%20DART.png)
+  
+  
+  
+  ### Diagrama de flujo 10
+  
+  ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/DFD10_P1%20DART.png)
+  
+  
+  
+  ### Diagrama de flujo 11
+  
+  ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/DFD11_P1%20DART.png)
  
