@@ -422,7 +422,6 @@ No hay entradas
   
   
   # DART
-  Ahora que ya elaboramos DFD's, pasaremos esos diagramas en el lenguaje de programación Dart
   
   ### Diagrama de flujo 1
   
