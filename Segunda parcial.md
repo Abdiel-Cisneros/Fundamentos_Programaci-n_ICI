@@ -413,6 +413,8 @@ No hay entradas
   
   ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/Comentario%20en%20bloque%20Python.png)
   
+  ![image] (https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/C3.png)
+  
   
   # C
   
