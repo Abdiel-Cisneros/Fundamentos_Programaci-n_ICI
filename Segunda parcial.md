@@ -429,6 +429,15 @@ No hay entradas
   
   ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/DFD1_P1%20DART.png)
   
+  ##Código
+  
+  ```
+  void main () {
+    print("Abdiel");
+}
+ 
+ ```
+  
   
   
   ### Diagrama de flujo 2
@@ -498,3 +507,19 @@ No hay entradas
 Si el usuario ingresa números incorrectos
   
   ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/DFD12-E_P1%20DART.png)
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
