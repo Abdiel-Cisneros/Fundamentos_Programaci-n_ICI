@@ -423,6 +423,30 @@ No hay entradas
   ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/C2.png)
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   # DART
   
   ### Diagrama de flujo 1
@@ -440,9 +464,21 @@ No hay entradas
   
   
   
+  
+  
   ### Diagrama de flujo 2
   
   ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/DFD2_P1%20DART.png)
+  
+  ##Código
+  
+  ```
+  void main(){
+ print("Lunes");
+ 
+}
+  ```
+  
   
   
   
@@ -450,11 +486,38 @@ No hay entradas
   
   ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/DFD3_P1%20DART.png)
   
+  ##Código
+  ```
+  void main(){
+    var Nombre=["Abdiel"] ;
+    print("Hola, $Nombre" );
+
+}
+  ```
+  
+  
+  
+  
   
   
   ### Diagrama de flujo 4
   
   ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/DFD4_P1%20DART.png)
+  
+  ##Código
+  ```
+  import 'dart:io';  
+void main() {
+
+    print("¿Cómo te llamas?:");
+   String? nombre = stdin.readLineSync();
+    print("Hola, $nombre" );
+}
+
+  ```
+  
+  
+  
   
   
   
@@ -462,16 +525,57 @@ No hay entradas
   
   ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/DFD5_P1%20DART.png)
   
+  ##Código
+  ```
+  void main(){
+    print(2*2);
+}
+  ```
+  
+  
+  
+  
   
   
   ### Diagrama de flujo 6 
   
   ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/DFD6_P1%20DART.png)
   
+  ##Código
+  ```
+  void main() {
+  var Numero = 5;
+  print("${Numero * Numero}");
+}
+  
+  ```
+  
+  
+  
+  
+  
   
   ### Diagrama de flujo 7
   
   ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/DFD7_P1%20DART.png)
+  
+  ##Código
+  ```
+  import 'dart:io';
+
+void main() {
+  int n = 0;
+  print("Dame el valor de N");
+  n = int.tryParse(stdin.readLineSync()!) ?? 0;
+//int.parse sirve para convertir de texto(string) a entero(int)
+//int.tryParse valida si el string tiene valor numérico, si no lo tiene, devolverá a nulo(null)
+// ??0 es para verificar si el valor de la izquierda es nulo, si lo es, devolverá el valor de la derecha
+  print("${n * n}");
+}  
+  ```
+  
+  
+  
   
   
   
@@ -480,11 +584,43 @@ No hay entradas
   
   ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/DFD8_P1%20DART.png)
   
+  ##Código
+  ```
+  import 'dart:io';
+
+void main() {
+  print("Ingrese 2 números enteros");
+  int a = int.tryParse(stdin.readLineSync()!) ?? 0;
+  int b = int.tryParse(stdin.readLineSync()!) ?? 0;
+
+  int n = a + b;
+
+  print('El resultado es: ${n * n}');
+}  
+  ```
+  
+  
+  
+  
   
   
   ### Diagrama de flujo 9
   
   ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/DFD9_P1%20DART.png)
+  
+  ##Código
+  ```
+  import 'dart:io';
+
+void main() {
+  print("Dígite su año de nacimiento");
+  int anac = int.tryParse(stdin.readLineSync()!) ?? 0;
+  print("${2022 - anac}");
+} 
+  ```
+  
+  
+  
   
   
   
@@ -492,11 +628,49 @@ No hay entradas
   
   ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/DFD10_P1%20DART.png)
   
+  ##Código
+  ```
+  import 'dart:io';
+
+void main() {
+  print("Dame tu año de nacimiento");
+  int anac = int.tryParse(stdin.readLineSync()!) ?? 0;
+  print("Dame el año actual");
+  int aactual = int.tryParse(stdin.readLineSync()!) ?? 0;
+
+  print("${aactual - anac}");
+} 
+  ```
+  
+  
+  
+  
   
   
   ### Diagrama de flujo 11
   
   ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/DFD11_P1%20DART.png)
+  
+  ##Código
+  ```
+  import 'dart:io';
+
+void main() {
+  print("Dame tu año de nacimiento");
+  int anac = int.tryParse(stdin.readLineSync()!) ?? 0;
+  print("Dime el año actual");
+  int aactual = int.tryParse(stdin.readLineSync()!) ?? 0;
+
+  if (aactual < anac) {
+    print("El año actual no puede ser menor al año de nacimiento");
+  } else {
+    print("${aactual - anac}");
+  }
+} 
+  ```
+  
+  
+  
   
   
   
@@ -507,6 +681,36 @@ No hay entradas
 Si el usuario ingresa números incorrectos
   
   ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/DFD12-E_P1%20DART.png)
+  
+  ##Código
+  ```
+  import 'dart:io';
+
+void main() {
+  int anac = -1;
+  int aactual = -1;
+
+  while (anac < 0) {
+    print("Dame tu año de nacimiento");
+    anac = int.tryParse(stdin.readLineSync()!) ?? 0;
+    if (anac < 0) {
+      print("El año de nacimiento no puede ser menor a 0");
+    }
+  }
+  while (aactual < 0 || aactual < anac) {
+    print("Dame el año actual");
+    aactual = int.tryParse(stdin.readLineSync()!) ?? 0;
+    if (aactual < 0) print("El año actual no puede ser menor a 0");
+    if (aactual < anac) {
+      print("El año actual no puede ser menor al año de nacimiento");
+    }
+  }
+  print("${aactual - anac}");
+} 
+  ```
+  
+  
+  
   
   
   
