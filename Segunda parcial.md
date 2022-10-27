@@ -453,7 +453,7 @@ No hay entradas
   
   ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/DFD1_P1%20DART.png)
   
-  ##Código
+  ## Código
   
   ```
   void main () {
@@ -470,7 +470,7 @@ No hay entradas
   
   ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/DFD2_P1%20DART.png)
   
-  ##Código
+  ## Código
   
   ```
   void main(){
@@ -486,7 +486,7 @@ No hay entradas
   
   ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/DFD3_P1%20DART.png)
   
-  ##Código
+  ## Código
   ```
   void main(){
     var Nombre=["Abdiel"] ;
@@ -504,7 +504,7 @@ No hay entradas
   
   ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/DFD4_P1%20DART.png)
   
-  ##Código
+  ## Código
   ```
   import 'dart:io';  
 void main() {
@@ -525,7 +525,7 @@ void main() {
   
   ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/DFD5_P1%20DART.png)
   
-  ##Código
+  ## Código
   ```
   void main(){
     print(2*2);
@@ -559,7 +559,7 @@ void main() {
   
   ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/DFD7_P1%20DART.png)
   
-  ##Código
+  ## Código
   ```
   import 'dart:io';
 
@@ -584,7 +584,7 @@ void main() {
   
   ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/DFD8_P1%20DART.png)
   
-  ##Código
+  ## Código
   ```
   import 'dart:io';
 
@@ -608,7 +608,7 @@ void main() {
   
   ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/DFD9_P1%20DART.png)
   
-  ##Código
+  ## Código
   ```
   import 'dart:io';
 
@@ -628,7 +628,7 @@ void main() {
   
   ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/DFD10_P1%20DART.png)
   
-  ##Código
+  ## Código
   ```
   import 'dart:io';
 
@@ -651,7 +651,7 @@ void main() {
   
   ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/DFD11_P1%20DART.png)
   
-  ##Código
+  ## Código
   ```
   import 'dart:io';
 
@@ -682,7 +682,7 @@ Si el usuario ingresa números incorrectos
   
   ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/DFD12-E_P1%20DART.png)
   
-  ##Código
+  ## Código
   ```
   import 'dart:io';
 
