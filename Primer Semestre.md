@@ -740,6 +740,29 @@ No hay entradas
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  # PYTHON
+  ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/Python%201.png)
+  
+  ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/Comentario%20en%20bloque%20Python.png)
+  
+  ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/C3.png)
+  
+  
+  # C
+  
+  ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/C1.png)
+  
+  ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/C2.png)
+  
+  
   # DART
   Ahora que ya elaboramos DFD's, pasaremos esos diagramas en el lenguaje de programación Dart
   
