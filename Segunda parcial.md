@@ -865,8 +865,7 @@ void main() {
   ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/DFD19_P1%20DART.png)
                                           
   ## Código                     
-                       
-    ```                   
+  ```                   
     // DFD que indique cuánto falta para llegar a 10
 import 'dart:io';
 
