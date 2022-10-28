@@ -409,17 +409,26 @@ No hay entradas
   
   
   # PYTHON
+  
+  ##1
   ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/Python%201.png)
   
+ 
+  ##2
   ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/Comentario%20en%20bloque%20Python.png)
+ 
   
+  ##3
   ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/C3.png)
+  
   
   
   # C
   
+  #1
   ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/C1.png)
   
+  #2
   ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/C2.png)
   
   
