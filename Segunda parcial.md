@@ -887,8 +887,7 @@ void main() {
     (y = 10 - numero);
     print("El numero es menor a 10, le faltan $y");
   }
-}
-                   
+}               
     ```                   
                        
                        
