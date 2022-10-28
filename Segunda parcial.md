@@ -709,21 +709,187 @@ void main() {
 } 
   ```
   
+  ### Diagrama de flujo 13
+  ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/DFD13_P1%20DART.png)
+                                          
+  ## Código
+  ```                     
+  //DFD que cuente del 1 al 10 y lo escriba
+
+int conteo = 0;
+
+void main() {
+  while (conteo <= 9) {
+    (conteo = conteo + 1);
+    print("$conteo");
+  }
+}
+
+  ```
   
   
   
+  ### Diagrama de flujo 14
+  ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/DFD14_P1%20DART.png)
+                                          
+  ## Código
+  ```
+  // Resultado de la suma de los números naturales de 1 al 10
+
+void main() {
+  int cont = 1;
+  int suma = 0;
+
+  while (cont <= 10) {
+    (suma = suma + cont);
+    (cont = cont + 1);
+    print("$suma");
+  }
+}
+  ```
   
   
+  ### Diagrama de flujo 15
+  ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/DFD15_P1%20DART.png)
+                                          
+  ## Código
   
+  ```
+  //DFD que genere números pares del 1 al 10
+
+void main() {
+  int cont = 0;
+ 
+  while (cont < 10) {
+    (cont = cont + 2);
+    print("$cont");
+  }
+}
+
+  ```
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+### Diagrama de flujo 16
+  ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/DFD16_P1%20DART.png)
+                                          
+  ## Código
+                       
+  ```                     
+  //Capture N números e imprima sólo la suma de los pares
+import 'dart:io';
+
+void main() {
+  int numero = 0;
+  int suma_par = 0;
+  int contador = 0;
+  int cantidad = 0;
+
+  print("Cantidad de números que vas a ingresar");
+  cantidad = int.tryParse(stdin.readLineSync()!) ?? 0;
+  while (cantidad < 0) {
+    print("La cantidad ingresada debe de ser positivo");
+    cantidad = int.tryParse(stdin.readLineSync()!) ?? 0;
+  }
+
+  while (contador < cantidad) {
+    print("ingrese un número positivo");
+    numero = int.tryParse(stdin.readLineSync()!) ?? 0;
+    while (numero < 0) {
+      print("No puedes ingresar un numero menor a 0");
+      numero = int.tryParse(stdin.readLineSync()!) ?? 0;
+    }
+    while (numero % 2 == 1) {
+      print("ingrese un numero par");
+      numero = int.tryParse(stdin.readLineSync()!) ?? 0;
+    }
+
+    (suma_par = suma_par + numero);
+    (contador = contador + 1);
+    if (contador < 2) {
+      print("Necesitas ingresar otro número par");
+    } else if (contador > 2) {
+      print("Necesitas ingresar otro número par");
+    }
+  }
+  print("La suma de pares es $suma_par");
+}
+                     
+  ```                     
+                       
+### Diagrama de flujo 17
+  ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/DFD17_P1%20DART.png)
+                                          
+  ## Código            
+                       
+  ```
+  // Digite si un número es par o impar
+import 'dart:io';
+
+void main() {
+  print("Digite un número");
+  int numero = int.tryParse(stdin.readLineSync()!) ?? 0;
+  while (numero < 0) {
+    print("No puedes ingresar un número menor a 0");
+    numero = int.tryParse(stdin.readLineSync()!) ?? 0;
+  }
+  if (numero % 2 == 0) {
+    print("El número es par");
+  } else if (numero % 2 == 1) {
+    print("El numero es impar");
+  }
+}
+                     
+  ```                     
+                       
+ ### Diagrama de flujo 18
+  ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/DFD18_P1%20DART.png)
+                         
+  ## Código  
+                       
+   ```                    
+   //Escriba un DFD que indique si un número es mayor a 10
+import 'dart:io';
+
+void main() {
+  print("Ingrese un número");
+  int numero = int.tryParse(stdin.readLineSync()!) ?? 0;
+  if (numero > 10) {
+    print("El número es mayor a 10");
+  } else if (numero < 10) {
+    print("El numero es menor a 10");
+  }
+}
+                    
+   ```                    
+                       
+ ### Diagrama de flujo 19
+  ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/DFD19_P1%20DART.png)
+                                          
+  ## Código                     
+                       
+    ```                   
+    // DFD que indique cuánto falta para llegar a 10
+import 'dart:io';
+
+void main() {
+  print("Introduzca un numero que no sea 10");
+  int numero = int.tryParse(stdin.readLineSync()!) ?? 0;
+  while (numero == 10) {
+    print("Ingrese un número que no sea 10");
+    numero = int.tryParse(stdin.readLineSync()!) ?? 0;
+  }
+  int f = 0;
+  int y = 0;
+
+  if (numero > 10) {
+    (f = numero - 10);
+    print("El numero excede a 10 por $f");
+  } else if (numero < 10) {
+    (y = 10 - numero);
+    print("El numero es menor a 10, le faltan $y");
+  }
+}
+                   
+    ```                   
+                       
+                       
+       
