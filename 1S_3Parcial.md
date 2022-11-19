@@ -10,9 +10,21 @@
 
 ### Son de *TIPADO ESTÁTICO*
 
-## Ejercicio 1
+### Ejercicio 1
 
+#### .1 Análisis
+Arrays de 2 dimensiones.
+*Utilizando 2 vectores capture edad y semestre de n estudiantes
 
+#### .2 Diagrama de flujo
+
+#### .3 Prueba de escritorio
+
+#### .4 Datos
+
+#### .5 Entradas
+
+#### .6 Salida
 
 
 
