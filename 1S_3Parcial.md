@@ -109,7 +109,7 @@ Arrays de 2 dimensiones.
 ## Ejercicio 6
 
 #### 6.1 Análisis
-
+Se necesita realizar un diagrama de flujo que consista en pasar los datos de una matriz a un vector
 
 #### 6.2 Diagrama de flujo
 
