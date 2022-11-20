@@ -126,8 +126,10 @@ Se necesita realizar un diagrama de flujo que consista en pasar los datos de una
 
 
 ## Ejercicio 7
+### El 1B quiere conocer el promedio por persona y por materia, además de la materia con mejor promedio grupal y al alumno con mejor promeido. Son 7 materias y 33 alumnos. Mencione los alumnos en riesgo (con al menos una materia reprobada)
 
 #### 7.1 Análisis
+
 
 
 #### 7.2 Diagrama de flujo
@@ -145,6 +147,8 @@ Se necesita realizar un diagrama de flujo que consista en pasar los datos de una
 
 
 ## Ejercicio 8
+### Pregunte las dimensiones de una matriz, el rango es [5,5], valide que sea cuadrada y obtenga la suma de la diagonal principal y la diagonal inversa. Determine cual es mayor. Pregunte valores para llenar la matriz
+
 
 #### 8.1 Análisis
 
