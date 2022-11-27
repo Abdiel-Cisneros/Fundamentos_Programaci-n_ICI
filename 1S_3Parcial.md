@@ -2,13 +2,26 @@
 
 ### Matriz: Agrupación de arrays
 
-## Datos:
+## NOTAS:
 
-### Son estáticos, igual que los vectores
+### -*Son estáticos, igual que los vectores*
 
-### Todos los elementos deben ser del mismo tipo
+### -*Todos los elementos deben ser del mismo tipo*
 
-### Son de *TIPADO ESTÁTICO*
+### -*Son de *TIPADO ESTÁTICO**
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### Ejercicio 1
 
@@ -16,10 +29,12 @@
 Arrays de 2 dimensiones.
 *Utilizando 2 vectores capture edad y semestre de n estudiantes
 
+*Nota: En este caso se puede resolver con un sólo vector*
+
 #### .2 Diagrama de flujo
-
+![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/Ejercicio%201.jpg)
 #### .3 Prueba de escritorio
-
+![image]( )
 #### .4 Datos
 
 #### .5 Entradas
@@ -36,9 +51,9 @@ Arrays de 2 dimensiones.
 
 
 #### 2.2 Diagrama de flujo
-
+![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/Ejercicio%202.jpg)
 #### 2.3 Prueba de escritorio
-
+![image]( )
 #### 2.4 Datos
 
 #### 2.5 Entradas
@@ -55,9 +70,9 @@ Arrays de 2 dimensiones.
 
 
 #### 3.2 Diagrama de flujo
-
+![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/Ejercicio%203.jpg)
 #### 3.3 Prueba de escritorio
-
+![image]( )
 #### 3.4 Datos
 
 #### 3.5 Entradas
@@ -74,9 +89,9 @@ Arrays de 2 dimensiones.
 
 
 #### 4.2 Diagrama de flujo
-
+![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/Ejercicio%204.jpg)
 #### 4.3 Prueba de escritorio
-
+![image]( )
 #### 4.4 Datos
 
 #### 4.5 Entradas
@@ -93,9 +108,9 @@ Arrays de 2 dimensiones.
 
 
 #### 5.2 Diagrama de flujo
-
+![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/Ejercicio%205.jpg)
 #### 5.3 Prueba de escritorio
-
+![image]( )
 #### 5.4 Datos
 
 #### 5.5 Entradas
@@ -112,9 +127,9 @@ Arrays de 2 dimensiones.
 Se necesita realizar un diagrama de flujo que consista en pasar los datos de una matriz a un vector
 
 #### 6.2 Diagrama de flujo
-
+![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/Ejercicio%206.jpg)
 #### 6.3 Prueba de escritorio
-
+![image]( )
 #### 6.4 Datos
 
 #### 6.5 Entradas
@@ -133,9 +148,9 @@ Se necesita realizar un diagrama de flujo que consista en pasar los datos de una
 
 
 #### 7.2 Diagrama de flujo
-
+![image]( )
 #### 7.3 Prueba de escritorio
-
+![image]( )
 #### 7.4 Datos
 
 #### 7.5 Entradas
@@ -154,9 +169,9 @@ Se necesita realizar un diagrama de flujo que consista en pasar los datos de una
 
 
 #### 8.2 Diagrama de flujo
-
+![image]( )
 #### 8.3 Prueba de escritorio
-
+![image]( )
 #### 8.4 Datos
 
 #### 8.5 Entradas
@@ -173,9 +188,9 @@ Se necesita realizar un diagrama de flujo que consista en pasar los datos de una
 
 
 #### 9.2 Diagrama de flujo
-
+![image]( )
 #### 9.3 Prueba de escritorio
-
+![image]( )
 #### 9.4 Datos
 
 #### 9.5 Entradas
