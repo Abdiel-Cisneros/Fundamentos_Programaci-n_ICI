@@ -25,22 +25,22 @@
 
 ### Ejercicio 1
 
-#### .1 Análisis
+#### 1.1 Análisis
 Arrays de 2 dimensiones.
 *Utilizando 2 vectores capture edad y semestre de n estudiantes
 
 *Nota: En este caso se puede resolver con un sólo vector*
 
-#### .2 Diagrama de flujo
+#### 1.2 Diagrama de flujo
 ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/Ejercicio%201.jpg)
-#### .3 Prueba de escritorio
-![image]( )
-#### .4 Datos
-
-#### .5 Entradas
-
-#### .6 Salida
-
+#### 1.3 Prueba de escritorio
+![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/1S3P%20Prueba%20de%20escritorio%201.jpeg)
+#### 1.4 Datos
+Edad [100] Semestre [100]
+#### 1.5 Entradas
+15,1,18,2,17,5,19,3,21,5
+#### 1.6 Salida
+![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/1S3P%20Salida%201.jpeg)
 
 
 
@@ -48,18 +48,17 @@ Arrays de 2 dimensiones.
 ### Ejercicio 2 
 
 #### 2.1 Análisis
-
-
+Rellenar una matriz cuadrada de (nxn) con un número leído del teclado
 #### 2.2 Diagrama de flujo
 ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/Ejercicio%202.jpg)
 #### 2.3 Prueba de escritorio
-![image]( )
+![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/1S3P%20Prueba%20de%20escritorio%202.jpeg)
 #### 2.4 Datos
-
+M[100,100]
 #### 2.5 Entradas
-
+4,4
 #### 2.6 Salida
-
+![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/1S3P%20Salida%202.jpeg)
 
 
 
@@ -67,18 +66,18 @@ Arrays de 2 dimensiones.
 ## Ejercicio 3
 
 #### 3.1 Análisis
-
+Rellenar la matriz
 
 #### 3.2 Diagrama de flujo
 ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/Ejercicio%203.jpg)
 #### 3.3 Prueba de escritorio
-![image]( )
+![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/1S3P%20Prueba%20de%20escritorio%203.jpeg)
 #### 3.4 Datos
-
+M[100,100] Cont=0
 #### 3.5 Entradas
-
+4
 #### 3.6 Salida
-
+![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/1S3P%20Salida%203.jpeg)
 
 
 
