@@ -85,18 +85,18 @@ M[100,100] Cont=0
 ## Ejercicio 4
 
 #### 4.1 Análisis
-
+Rellenar la matriz
 
 #### 4.2 Diagrama de flujo
 ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/Ejercicio%204.jpg)
 #### 4.3 Prueba de escritorio
-![image]( )
+![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/1S3P%20Prueba%20de%20escritorio%204.jpeg)
 #### 4.4 Datos
-
+M [100,100]
 #### 4.5 Entradas
-
+4
 #### 4.6 Salida
-
+![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/1S3P%20Salida%204.jpeg)
 
 
 
@@ -104,18 +104,18 @@ M[100,100] Cont=0
 ## Ejercicio 5
 
 #### 5.1 Análisis
-
+Rellenar la matriz
 
 #### 5.2 Diagrama de flujo
 ![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/Ejercicio%205.jpg)
 #### 5.3 Prueba de escritorio
-![image]( )
+![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/1S3P%20Prueba%20de%20escritoio%205.jpeg)
 #### 5.4 Datos
-
+Cont=0 M[100,100]
 #### 5.5 Entradas
-
+3
 #### 5.6 Salida
-
+![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/1S3P%20Salida%205.jpeg)
 
 
 
@@ -126,15 +126,15 @@ M[100,100] Cont=0
 Se necesita realizar un diagrama de flujo que consista en pasar los datos de una matriz a un vector
 
 #### 6.2 Diagrama de flujo
-![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/Ejercicio%206.jpg)
+![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/1S3P%20Ejercicio%206.jpg)
 #### 6.3 Prueba de escritorio
-![image]( )
+![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/1S3P%20Prueba%20de%20escritorio%206.1.jpeg)
 #### 6.4 Datos
-
+M[10,10] V[100] Cont=1
 #### 6.5 Entradas
-
+3
 #### 6.6 Salida
-
+![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/1S3P%20Prueba%20de%20escritorio%206.2.jpeg)
 
 
 
