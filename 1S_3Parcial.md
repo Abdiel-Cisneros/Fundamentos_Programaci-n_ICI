@@ -140,43 +140,44 @@ M[10,10] V[100] Cont=1
 
 
 ## Ejercicio 7
-### El 1B quiere conocer el promedio por persona y por materia, además de la materia con mejor promedio grupal y al alumno con mejor promeido. Son 7 materias y 33 alumnos. Mencione los alumnos en riesgo (con al menos una materia reprobada)
 
 #### 7.1 Análisis
-
-
+Ingresar a la matriz solamente números pares y sumar todos los números en un contador
 
 #### 7.2 Diagrama de flujo
-![image]( )
+![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/1S3P%20Ejercicio%207.jpg)
 #### 7.3 Prueba de escritorio
-![image]( )
+![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/1S3P%20Prueba%20de%20escritorio%207.jpeg)
 #### 7.4 Datos
-
+M[100,100] Total=0
 #### 7.5 Entradas
-
+4
 #### 7.6 Salida
-
+![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/1S3P%20Salida%207.jpeg)
 
 
 
 
 ## Ejercicio 8
-### Pregunte las dimensiones de una matriz, el rango es [5,5], valide que sea cuadrada y obtenga la suma de la diagonal principal y la diagonal inversa. Determine cual es mayor. Pregunte valores para llenar la matriz
-
 
 #### 8.1 Análisis
-
+Pregunte las dimensiones de una matriz, el rango es [5,5], valide que sea cuadrada y obtenga la suma de la diagonal principal y la diagonal inversa. Determine cual es mayor. Pregunte valores para llenar la matriz
 
 #### 8.2 Diagrama de flujo
-![image]( )
+![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/1S3P%20Ejercicio%208.jpg)
 #### 8.3 Prueba de escritorio
-![image]( )
+
+Parte 1
+![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/1S3P%20Ejercicio%208.1.jpeg)
+
+Parte 2
+![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/1S3P%20Ejercicio%208.2.jpeg)
 #### 8.4 Datos
-
+M[5,5] di=0 dp=0
 #### 8.5 Entradas
-
+4
 #### 8.6 Salida
-
+![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/1S3P%20Salida%208.jpeg)
 
 
 
@@ -184,17 +185,34 @@ M[10,10] V[100] Cont=1
 ## Ejercicio 9
 
 #### 9.1 Análisis
-
+Almacenar en un array la sumatoria de los numeros desde 1 hasta n posición del array. Ejemplo: Si n=3 el array deberá ser 1,3,6
 
 #### 9.2 Diagrama de flujo
-![image]( )
+![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/1S3P%20Ejercicio%209.jpg)
 #### 9.3 Prueba de escritorio
-![image]( )
+![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/Prueba%20de%20escritorio%209.jpeg)
 #### 9.4 Datos
-
+V[100] Cont= 1 Total=0
 #### 9.5 Entradas
-
+5
 #### 9.6 Salida
+1,3,6,10,15
 
 
 
+
+## Ejercicio 10
+
+#### 10.1 Análisis
+Dada una matriz nxm almacenar en un vector los mayores por renglón
+
+#### 9.2 Diagrama de flujo
+![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/1S3P%20Ejercicio%2010.jpg)
+#### 9.3 Prueba de escritorio
+![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/1S3P%20Prueba%20de%20escritorio%2010.jpeg)
+#### 9.4 Datos
+M[100,100] A[100] Mayor=0
+#### 9.5 Entradas
+3,3
+#### 9.6 Salida
+![image](https://github.com/Abdiel-Cisneros/Fundamentos_Programacion_ICI/blob/main/1S3P%20Salida%2010.jpeg)
